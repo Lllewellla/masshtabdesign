@@ -32,6 +32,55 @@
       "services": ["промышленный дизайн", "дизайн-ДНК"],
       "url": "https://m-shtab.ru/pro-tok",
       "markdown": "cases/pro-tok.md"
+    },
+    {
+      "slug": "rfid-schityvatel-isbc",
+      "title": "Дизайн RFID-считывателя ISBC",
+      "client": "ISBC",
+      "product": "RFID-считыватель ISBC",
+      "category": ["электроника", "корпуса"],
+      "mark": "СЕРИЙНОЕ ПРОИЗВОДСТВО",
+      "location": "Россия",
+      "services": ["промышленный дизайн", "функциональная графика"],
+      "url": "https://m-shtab.ru/rfid-schityvatel-isbc",
+      "markdown": "cases/rfid-schityvatel-isbc.md"
+    },
+    {
+      "slug": "uv-lampa",
+      "title": "Дизайн UV-лампы для мастеров маникюра",
+      "client": null,
+      "client_public": false,
+      "product": "UV-лампа",
+      "category": ["профессиональный инструмент", "корпуса"],
+      "mark": "СЕРИЙНОЕ ПРОИЗВОДСТВО",
+      "location": "Россия",
+      "year": 2023,
+      "services": ["промышленный дизайн", "3D-моделирование"],
+      "url": "https://m-shtab.ru/uv-lampa",
+      "markdown": "cases/uv-lampa.md"
+    },
+    {
+      "slug": "stanki-enisej-dizajn-dnk",
+      "title": "Дизайн-ДНК станков «Енисей»",
+      "client": "Енисей",
+      "product": "Станки плазменной резки «Енисей»",
+      "category": ["промышленное оборудование", "дизайн-ДНК"],
+      "year": 2025,
+      "location": "Россия",
+      "services": ["дизайн-ДНК", "цветографика", "эскизный дизайн-проект"],
+      "url": "https://m-shtab.ru/stanki-enisej-dizajn-dnk",
+      "markdown": "cases/stanki-enisej-dizajn-dnk.md"
+    },
+    {
+      "slug": "vezdehod-varyag",
+      "title": "Дизайн вездехода «Варяг»",
+      "product": "Вездеход «Варяг»",
+      "category": ["транспорт", "спецтехника"],
+      "year": 2023,
+      "location": "Россия",
+      "services": ["эскизный дизайн-проект", "дизайн экстерьера"],
+      "url": "https://m-shtab.ru/vezdehod-varyag",
+      "markdown": "cases/vezdehod-varyag.md"
     }
   ]
 }

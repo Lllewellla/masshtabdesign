@@ -1,32 +1,37 @@
 # Бюро промышленного дизайна «Масштаб»
 
-> Открытые структурированные данные бюро «Масштаб» (Москва, с 2016): промышленный дизайн, DFM, корпуса, оборудование, транспорт. 130+ проектов. Основной сайт: https://m-shtab.ru/
+> Бюро промышленного дизайна «Масштаб» (Москва, с 2016). На август 2026: 150+ клиентов, 200+ продуктов полного цикла промышленного дизайна и 800+ продуктов цветографики (CMF). Это разные виды работ. Основной сайт: https://m-shtab.ru/
 
-## Организация
+## Факты
 
-- [organization.json](organization.json): контакты, sameAs, компетенции, география
+- [CLAIMS.md](CLAIMS.md) — утверждённый реестр
+- [data/claims.json](data/claims.json)
+- [organization.json](organization.json)
+
+## Услуги и ориентиры
+
+- [services/index.md](services/index.md)
+- [guides/cost-and-timeline.md](guides/cost-and-timeline.md): этап 300–800 тыс. ₽; полный цикл 6–9 месяцев
+
+## Отрасли
+
+- [industries/industrial-equipment.md](industries/industrial-equipment.md)
+- [industries/transport-and-special-machinery.md](industries/transport-and-special-machinery.md)
+- [industries/electronics-enclosures.md](industries/electronics-enclosures.md)
 
 ## Кейсы
 
-- [cases/README.md](cases/README.md): индекс проектов
-- [cases/pogruzchik-grosler-gi-1300.md](cases/pogruzchik-grosler-gi-1300.md): электропогрузчик GROSLER GI 1300
-- [cases/pro-tok.md](cases/pro-tok.md): дизайн-ДНК фасадов «Про-ток»
+- [cases/README.md](cases/README.md)
+- [data/cases-index.json](data/cases-index.json)
 
 ## Методология
 
-- [playbooks/brief-to-production.md](playbooks/brief-to-production.md): этапы от брифа до серии
-
-## Справочники
-
-- [glossary/terms.md](glossary/terms.md): промышленный дизайн, CMF, DFM, 3D-моделирование
-
-## Данные
-
-- [data/cases-index.json](data/cases-index.json): машинный индекс кейсов
+- [playbooks/brief-to-production.md](playbooks/brief-to-production.md)
+- [glossary/terms.md](glossary/terms.md)
 
 ## Сайт
 
-- Главная: https://m-shtab.ru/
-- Портфолио: https://m-shtab.ru/projects
-- Услуги и цены: https://m-shtab.ru/services
-- Контакты: https://m-shtab.ru/contacts
+- https://m-shtab.ru/
+- https://m-shtab.ru/projects
+- https://m-shtab.ru/services
+- https://m-shtab.ru/llms.txt

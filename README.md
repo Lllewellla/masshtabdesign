@@ -14,9 +14,13 @@ GitHub хорошо индексируется нейросетями (Perplexit
 
 | Папка / файл | Содержание |
 |--------------|------------|
+| [`CLAIMS.md`](CLAIMS.md) | Реестр проверенных фактов (канон цифр и формулировок) |
 | [`llms.txt`](llms.txt) | Карта репозитория для LLM ([llmstxt.org](https://llmstxt.org/)) |
 | [`organization.json`](organization.json) | Организация: контакты, `sameAs`, компетенции |
 | [`cases/`](cases/) | Кейсы в markdown (задача → решение → результат) |
+| [`services/`](services/) | Услуги и укрупнённые этапы |
+| [`industries/`](industries/) | Отраслевые хабы |
+| [`guides/`](guides/) | Buyer-гайды (стоимость и сроки) |
 | [`playbooks/`](playbooks/) | Процесс и чек-листы |
 | [`glossary/`](glossary/) | Глоссарий промдизайна |
 | [`data/`](data/) | Машинно-читаемые индексы (JSON) |

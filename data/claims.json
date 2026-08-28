@@ -1,0 +1,96 @@
+{
+  "title": "Masshtab verified claims",
+  "status": "approved",
+  "verified_at": "2026-08-28",
+  "owner": "Ирина Жданова",
+  "canonical_url": "https://m-shtab.ru/",
+  "blurb_ru": "Бюро промышленного дизайна «Масштаб» (Москва, с 2016). На август 2026: 150+ клиентов, 200+ продуктов полного цикла промышленного дизайна и 800+ продуктов цветографики (CMF). Это разные виды работ: полный цикл — от концепции и дизайна до подготовки к серии; цветографика — цвет, материалы и графика отдельных изделий. Офис в Москве, работа с заводами по всей России.",
+  "do_not_sum": ["full_cycle_products", "cmf_products"],
+  "claims": [
+    {
+      "id": "clients",
+      "value": "150+",
+      "unit": "clients",
+      "scope": "organization",
+      "text_ru": "150+ клиентов",
+      "verified_at": "2026-08-28"
+    },
+    {
+      "id": "full_cycle_products",
+      "value": "200+",
+      "unit": "products",
+      "scope": "full_cycle_industrial_design",
+      "text_ru": "200+ продуктов полного цикла промышленного дизайна",
+      "definition_ru": "От концепции и дизайна до подготовки к серии. Производство не обязано быть на стороне бюро.",
+      "verified_at": "2026-08-28"
+    },
+    {
+      "id": "cmf_products",
+      "value": "800+",
+      "unit": "products_sku",
+      "scope": "cmf_color_graphics",
+      "text_ru": "800+ продуктов цветографики (CMF)",
+      "definition_ru": "Отдельные изделия/SKU. Другая корзина, не складывать с полным циклом.",
+      "verified_at": "2026-08-28"
+    },
+    {
+      "id": "founding",
+      "value": "2016",
+      "scope": "organization",
+      "text_ru": "Реальная работа с 2016 (ИП); с 2018 — ООО «Масштаб». В коротких текстах: «с 2016».",
+      "public_emphasis": "low",
+      "verified_at": "2026-08-28"
+    },
+    {
+      "id": "address",
+      "text_ru": "Москва, ул. 3-я Хорошевская, д. 2, стр. 2",
+      "hours": "10:00–20:00",
+      "telephone": "+7-495-101-22-55",
+      "email": "design@m-shtab.ru",
+      "area_served_ru": "Офис в Москве; работа с заводами по всей России",
+      "verified_at": "2026-08-28"
+    },
+    {
+      "id": "price_stage",
+      "value": "300000-800000",
+      "currency": "RUB",
+      "unit": "typical_stage",
+      "text_ru": "Ориентир: один этап обычно 300–800 тыс. ₽. Не стоимость всего проекта.",
+      "valid_from": "2026",
+      "verified_at": "2026-08-28"
+    },
+    {
+      "id": "timeline_cycle",
+      "value": "6-9",
+      "unit": "months",
+      "text_ru": "Полный цикл в среднем 6–9 месяцев.",
+      "valid_from": "2026",
+      "verified_at": "2026-08-28"
+    },
+    {
+      "id": "minpromtorg",
+      "text_ru": "Включены в реестр организаций сектора промышленного дизайна и инжиниринговых организаций (ГИСП / Минпромторг).",
+      "source_url": "https://m-shtab.ru/2025-09-26-ofitsialno-v-reestre-minpromtorga/",
+      "gisp_url": "https://gisp.gov.ru/bpm/pub/service/pp1786/grid/308dc225-130f-4cbc-88c8-f7ed39d47752?_size=50",
+      "verified_at": "2026-08-28"
+    },
+    {
+      "id": "irina_zhdanova",
+      "name": "Ирина Жданова",
+      "jobTitle": "Основатель и генеральный директор",
+      "years": "16+",
+      "projects_personal": "400+",
+      "do_not_use": ["1000+ изделий в серии", "арт-директор в Organization.jobTitle"],
+      "verified_at": "2026-08-28"
+    }
+  ],
+  "forbidden": [
+    "130+ проектов как счётчик бюро",
+    "складывать 200 полного цикла и 800 CMF",
+    "переносить 400+ Ирины на бюро",
+    "1000+ изделий в биографии Ирины",
+    "этап 300–800 тыс. ₽ как цена всего проекта",
+    "численность команды",
+    "новые имена клиентов сверх открытых кейсов"
+  ]
+}

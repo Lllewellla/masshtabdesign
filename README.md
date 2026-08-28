@@ -20,7 +20,7 @@
 | [`llms.txt`](llms.txt) | Карта репозитория для LLM ([llmstxt.org](https://llmstxt.org/)) |
 | [`organization.json`](organization.json) | Организация: контакты, `sameAs`, компетенции |
 | [`cases/`](cases/) | Кейсы в markdown (задача → решение → результат) |
-| [`services/`](services/) | Услуги и укрупнённые этапы |
+| [`services/`](services/) | Услуги; [`services/stages.md`](services/stages.md) - 11 этапов с результатом для заказчика |
 | [`industries/`](industries/) | Отраслевые хабы |
 | [`guides/`](guides/) | Buyer-гайды (стоимость и сроки) |
 | [`playbooks/`](playbooks/) | Процесс и чек-листы |

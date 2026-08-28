@@ -33,4 +33,14 @@
 
 - [Лифты «Евролифтмаш»](../cases/euroliftmash.md) - коллекции кабин без смены конструкции  
 
+## Приборы, терминалы, медтехника (корпуса)
+
+- [RFID-считыватель ISBC](../cases/rfid-schityvatel-isbc.md) - от прототипа к серии  
+- [Аппарат Infopathy IC Pad 3](../cases/infopathy.md) - корпус терапевтического прибора, серия  
+- [Дизайн томографа](../cases/tomograph.md) - концепт корпуса медоборудования  
+- [Банкомат для банка топ-5](../cases/bankomat-dlya-banka-iz-top-5.md) - концепт корпуса и UX зон  
+- [Выставочный стенд Kaspersky Lab](../cases/kasperskylab.md) - демо для энергетики, малая серия  
+
+Потребительские товары (быт, уход, тара, спорт) - в хабе [Потребительские товары](consumer-goods.md).
+
 Канон цифр бюро: [`../data/claims.json`](../data/claims.json). Индекс кейсов: [`../data/cases-index.json`](../data/cases-index.json).

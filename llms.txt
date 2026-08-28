@@ -26,7 +26,7 @@
 
 - [industries/industrial-equipment.md](industries/industrial-equipment.md)
 - [industries/transport-and-special-machinery.md](industries/transport-and-special-machinery.md)
-- [industries/electronics-enclosures.md](industries/electronics-enclosures.md)
+- [industries/consumer-goods.md](industries/consumer-goods.md): потребительские товары (как фильтр на сайте)
 
 ## Кейсы
 

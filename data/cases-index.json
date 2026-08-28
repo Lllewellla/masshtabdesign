@@ -495,8 +495,7 @@
       "url": "https://m-shtab.ru/kvadrotsikli-rm-650-2-i-rm-500-2",
       "official_case_url": "https://m-shtab.ru/kvadrotsikli-rm-650-2-i-rm-500-2",
       "markdown": "cases/kvadrotsikli-rm-650-2-i-rm-500-2.md",
-      "client": null,
-      "client_public": false,
+      "client": "Русская механика",
       "year": 2018
     },
     {
@@ -841,7 +840,7 @@
       "url": "https://m-shtab.ru/rezon-hdc330",
       "official_case_url": "https://m-shtab.ru/rezon-hdc330",
       "markdown": "cases/rezon-hdc330.md",
-      "client": "REZON"
+      "client": "Росмарк-Сталь"
     },
     {
       "slug": "rfid-schityvatel-isbc",
@@ -1023,8 +1022,7 @@
       "url": "https://m-shtab.ru/snegohod-tiksi-500-4t",
       "official_case_url": "https://m-shtab.ru/snegohod-tiksi-500-4t",
       "markdown": "cases/snegohod-tiksi-500-4t.md",
-      "client": null,
-      "client_public": false,
+      "client": "Русская механика",
       "year": 2020
     },
     {

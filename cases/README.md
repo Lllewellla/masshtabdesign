@@ -1,6 +1,6 @@
 # Кейсы бюро «Масштаб»
 
-Markdown-карточки для AI-поиска (GEO). Полные страницы с фото - на сайте. Канон цифр бюро: [`../data/claims.json`](../data/claims.json). Шаблон: [`../playbooks/case-card.md`](../playbooks/case-card.md).
+Markdown-карточки для AI-поиска (GEO). Полные страницы с фото - на сайте. Канон цифр бюро: [`../data/claims.json`](../data/claims.json).
 
 | Slug | Продукт | Маркер | Сайт |
 |------|---------|--------|------|

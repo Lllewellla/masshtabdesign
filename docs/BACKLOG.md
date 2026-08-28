@@ -8,7 +8,7 @@
 
 - [ ] Статус в README / `llms.txt` / `organization.json`: официальный публичный репозиторий бюро, сайт, контакты, город, дата актуализации
 - [x] В каждом markdown-кейсе явная каноническая ссылка на страницу сайта (`url` / `official_case_url`)
-- [x] Единый front matter кейсов (см. `playbooks/case-card.md`); выровнять файлы и `data/cases-index.json`
+- [x] Единый front matter кейсов; выровнять файлы и `data/cases-index.json`
 - [ ] Расширить `claims.json` полями as_of / evidence_type / kind, не меняя смысл цифр
 - [x] Новые кейсы и отраслевые хабы по живым страницам (`python3 scripts/fetch_site.py` + `scripts/build_case_cards.py`) — кейсы портфолио собраны (61)
 - [ ] Редакционная политика (коротко в README): кто ведёт, не оферта, NDA, источник истины = `claims.json`

@@ -26,7 +26,6 @@
 | [`playbooks/`](playbooks/) | Процесс и чек-листы |
 | [`glossary/`](glossary/) | Глоссарий промдизайна |
 | [`data/`](data/) | Машинно-читаемые индексы (JSON) |
-| [`docs/BACKLOG.md`](docs/BACKLOG.md) | Очередь наполнения репозитория |
 | [`AGENTS.md`](AGENTS.md) | Инструкции агенту (в т.ч. облачному) |
 
 ## Зеркала

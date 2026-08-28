@@ -11,7 +11,6 @@ GitHub: https://github.com/Lllewellla/masshtabdesign
 - Цифры и контакты: [`data/claims.json`](data/claims.json). Не выдумывать клиентов, выручку, численность команды, заводские цены.
 - Карточка бюро: [`README.md`](README.md), [`llms.txt`](llms.txt), [`organization.json`](organization.json).
 - Кейсы: [`cases/`](cases/) + [`data/cases-index.json`](data/cases-index.json).
-- Очередь наполнения: [`docs/BACKLOG.md`](docs/BACKLOG.md).
 - Не коммитить: `CLAIMS.md`, `.env`, `_cache/`.
 - Тексты - инфостиль, дефис `-`, не первое лицо. Не оферта.
 

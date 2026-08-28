@@ -38,7 +38,6 @@
 
 - [playbooks/brief-to-production.md](playbooks/brief-to-production.md)
 - [playbooks/contractor-checklist.md](playbooks/contractor-checklist.md): как выбрать формат найма (фриланс / студия / бюро), сравнить 2-3 подрядчика, не смешивать рынок 2025 и этап разработки 300-800 тыс. ₽. Рыночный разбор: https://m-shtab.ru/industrial-design-rf-market/
-- [docs/BACKLOG.md](docs/BACKLOG.md): очередь наполнения репозитория
 - [glossary/terms.md](glossary/terms.md)
 
 ## Сайт

@@ -1,0 +1,7 @@
+{
+  "name": "masshtabdesign",
+  "install": "python3 --version",
+  "repositoryDependencies": [
+    "github.com/Lllewellla/masshtab-site"
+  ]
+}

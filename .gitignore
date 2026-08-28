@@ -4,3 +4,4 @@ Thumbs.db
 .env
 .env.*
 CLAIMS.md
+_cache/

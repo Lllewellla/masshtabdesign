@@ -39,4 +39,6 @@ GitHub хорошо индексируется нейросетями (Perplexit
 
 ## Связь с сайтом
 
-После публикации репозитория — добавить URL GitHub в `sameAs` на [m-shtab.ru](https://m-shtab.ru/) и ссылку из `llms.txt` на сайте (слой 1 GEO).
+На сайте: GitHub и GitVerse в `sameAs` Organization; в `llms.txt` - обе ссылки на зеркала. `/color` - цветографика и ориентиры цены/срока.
+
+Живой чеклист веток GEO (что сейчас, что в очереди): [`../m-shtab/docs/GEO-TODO.md`](../m-shtab/docs/GEO-TODO.md).

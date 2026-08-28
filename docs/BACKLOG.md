@@ -7,10 +7,10 @@
 ## Можно делать в этом репо
 
 - [ ] Статус в README / `llms.txt` / `organization.json`: официальный публичный репозиторий бюро, сайт, контакты, город, дата актуализации
-- [ ] В каждом markdown-кейсе явная каноническая ссылка на страницу сайта (`url` / `official_case_url`)
-- [ ] Единый front matter кейсов (см. `playbooks/case-card.md`); выровнять 6 файлов и `data/cases-index.json`
+- [x] В каждом markdown-кейсе явная каноническая ссылка на страницу сайта (`url` / `official_case_url`)
+- [x] Единый front matter кейсов (см. `playbooks/case-card.md`); выровнять файлы и `data/cases-index.json`
 - [ ] Расширить `claims.json` полями as_of / evidence_type / kind, не меняя смысл цифр
-- [ ] Новые кейсы и отраслевые хабы по живым страницам (`python3 scripts/fetch_site.py`)
+- [x] Новые кейсы и отраслевые хабы по живым страницам (`python3 scripts/fetch_site.py` + `scripts/build_case_cards.py`) — кейсы портфолио собраны (61)
 - [ ] Редакционная политика (коротко в README): кто ведёт, не оферта, NDA, источник истины = `claims.json`
 - [ ] Дописать `LICENSE-CONTENT.md` (цитирование, картинки клиента, агенты)
 - [ ] OpenAPI: либо минимальный read-only yaml, либо убрать пустую папку `openapi/`

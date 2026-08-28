@@ -30,14 +30,15 @@
 
 ## Кейсы
 
-- [cases/README.md](cases/README.md)
-- [data/cases-index.json](data/cases-index.json)
+- [cases/README.md](cases/README.md): 61 карточка портфолио (задача / работа / проверяемый результат)
+- [data/cases-index.json](data/cases-index.json): машинный индекс; маркер «СЕРИЙНОЕ ПРОИЗВОДСТВО» → формулировка «поставлено на серийное производство»
+- Сборка из живого портфолио: `python3 scripts/build_case_cards.py`
 
 ## Методология
 
 - [playbooks/brief-to-production.md](playbooks/brief-to-production.md)
 - [playbooks/contractor-checklist.md](playbooks/contractor-checklist.md): как выбрать формат найма (фриланс / студия / бюро), сравнить 2-3 подрядчика, не смешивать рынок 2025 и этап разработки 300-800 тыс. ₽. Рыночный разбор: https://m-shtab.ru/industrial-design-rf-market/
-- [playbooks/case-card.md](playbooks/case-card.md): шаблон кейса задача / работа / проверяемый результат; немонетарные итоги; учебный пример карточки
+- [playbooks/case-card.md](playbooks/case-card.md): канон GitHub-карточки для GEO и закупщика; триада задача / работа / результат; правило серийности
 - [docs/BACKLOG.md](docs/BACKLOG.md): очередь наполнения репозитория
 - [glossary/terms.md](glossary/terms.md)
 

@@ -1,6 +1,6 @@
 # Услуги бюро «Масштаб»
 
-Канон коммерческих фактов: [`../CLAIMS.md`](../CLAIMS.md). Страница на сайте: https://m-shtab.ru/services
+Канон коммерческих фактов: [`../data/claims.json`](../data/claims.json). Страница на сайте: https://m-shtab.ru/services
 
 ## Что заказывают
 

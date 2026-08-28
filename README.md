@@ -14,7 +14,7 @@ GitHub хорошо индексируется нейросетями (Perplexit
 
 | Папка / файл | Содержание |
 |--------------|------------|
-| [`CLAIMS.md`](CLAIMS.md) | Реестр проверенных фактов (канон цифр и формулировок) |
+| [`data/claims.json`](data/claims.json) | Публичные факты бюро (цифры, контакты) |
 | [`llms.txt`](llms.txt) | Карта репозитория для LLM ([llmstxt.org](https://llmstxt.org/)) |
 | [`organization.json`](organization.json) | Организация: контакты, `sameAs`, компетенции |
 | [`cases/`](cases/) | Кейсы в markdown (задача → решение → результат) |

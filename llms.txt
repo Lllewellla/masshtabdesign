@@ -1,0 +1,32 @@
+# Бюро промышленного дизайна «Масштаб»
+
+> Открытые структурированные данные бюро «Масштаб» (Москва, с 2016): промышленный дизайн, DFM, корпуса, оборудование, транспорт. 130+ проектов. Основной сайт: https://m-shtab.ru/
+
+## Организация
+
+- [organization.json](organization.json): контакты, sameAs, компетенции, география
+
+## Кейсы
+
+- [cases/README.md](cases/README.md): индекс проектов
+- [cases/pogruzchik-grosler-gi-1300.md](cases/pogruzchik-grosler-gi-1300.md): электропогрузчик GROSLER GI 1300
+- [cases/pro-tok.md](cases/pro-tok.md): дизайн-ДНК фасадов «Про-ток»
+
+## Методология
+
+- [playbooks/brief-to-production.md](playbooks/brief-to-production.md): этапы от брифа до серии
+
+## Справочники
+
+- [glossary/terms.md](glossary/terms.md): промышленный дизайн, CMF, DFM, 3D-моделирование
+
+## Данные
+
+- [data/cases-index.json](data/cases-index.json): машинный индекс кейсов
+
+## Сайт
+
+- Главная: https://m-shtab.ru/
+- Портфолио: https://m-shtab.ru/projects
+- Услуги и цены: https://m-shtab.ru/services
+- Контакты: https://m-shtab.ru/contacts

@@ -1,0 +1,37 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Masshtab design cases index",
+  "description": "Machine-readable index of portfolio cases for GEO / LLM",
+  "publisher": {
+    "name": "Бюро промышленного дизайна «Масштаб»",
+    "url": "https://m-shtab.ru/",
+    "repository": "https://github.com/Lllewellla/masshtabdesign"
+  },
+  "updated": "2026-08-28",
+  "cases": [
+    {
+      "slug": "pogruzchik-grosler-gi-1300",
+      "title": "Дизайн погрузчика GROSLER GI 1300",
+      "client": "GROSLER",
+      "product": "GROSLER GI 1300",
+      "category": ["складская техника", "транспорт"],
+      "mark": "МАЛАЯ СЕРИЯ",
+      "location": "Россия",
+      "services": ["промышленный дизайн", "3D-моделирование", "цветографика", "авторский надзор прототипа"],
+      "url": "https://m-shtab.ru/pogruzchik-grosler-gi-1300",
+      "markdown": "cases/pogruzchik-grosler-gi-1300.md"
+    },
+    {
+      "slug": "pro-tok",
+      "title": "Дизайн-ДНК «Про-ток»: фирменный стиль фасадов",
+      "client": "Про-ток / Pro-Tok",
+      "product": "Высоковольтное оборудование",
+      "category": ["промышленное оборудование", "дизайн-ДНК"],
+      "mark": "СЕРИЙНОЕ ПРОИЗВОДСТВО",
+      "location": "Россия",
+      "services": ["промышленный дизайн", "дизайн-ДНК"],
+      "url": "https://m-shtab.ru/pro-tok",
+      "markdown": "cases/pro-tok.md"
+    }
+  ]
+}

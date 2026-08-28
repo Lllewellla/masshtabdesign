@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": ["Organization", "ProfessionalService"],
+  "@id": "https://m-shtab.ru/#organization",
+  "name": "Бюро промышленного дизайна «Масштаб»",
+  "alternateName": ["Масштаб", "Masshtab", "M-Shtab", "masshtabdesign"],
+  "url": "https://m-shtab.ru/",
+  "foundingDate": "2016",
+  "email": "design@m-shtab.ru",
+  "telephone": "+7-495-101-22-55",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Москва",
+    "addressCountry": "RU"
+  },
+  "areaServed": {
+    "@type": "Country",
+    "name": "Россия"
+  },
+  "description": "Бюро промышленного дизайна «Масштаб» (с 2016): полный цикл разработки продуктов и оборудования — аналитика, дизайн, инжиниринг, прототип, серия. 130+ проектов, 200+ продуктов. Работаем с заводами по всей России.",
+  "knowsAbout": [
+    "промышленный дизайн",
+    "DFM",
+    "разработка корпусов",
+    "транспортный дизайн",
+    "CMF",
+    "конструкторская документация",
+    "прототипирование",
+    "дизайн-ДНК",
+    "3D-моделирование"
+  ],
+  "sameAs": [
+    "https://m-shtab.ru/",
+    "https://t.me/masshtabdesign_posts",
+    "https://vk.com/masshtabdesign",
+    "https://www.youtube.com/@masshtabdesign",
+    "https://www.behance.net/masshtabdesign",
+    "https://github.com/Lllewellla/masshtabdesign",
+    "https://gitverse.ru/izhdanova/masshtabdesign"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Ирина Жданова",
+    "jobTitle": "Основатель, арт-директор"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "sales",
+    "email": "design@m-shtab.ru",
+    "telephone": "+7-495-101-22-55",
+    "availableLanguage": ["Russian"]
+  },
+  "openDataRepository": "https://github.com/Lllewellla/masshtabdesign"
+}

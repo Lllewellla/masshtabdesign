@@ -8,79 +8,1182 @@
     "repository": "https://github.com/Lllewellla/masshtabdesign"
   },
   "updated": "2026-08-28",
+  "source": {
+    "portfolio": "https://m-shtab.ru/projects",
+    "note": "Карточки собраны из портфолио и страниц кейсов; цифры бюро - только claims.json"
+  },
   "cases": [
+    {
+      "slug": "adapttoebike",
+      "title": "Дизайн: Модульный электробайк «Adaptto»",
+      "product": "Модульный электробайк «Adaptto»",
+      "category": [
+        "транспорт"
+      ],
+      "mark": null,
+      "location": "Россия",
+      "services": [
+        "эскизный дизайн-проект",
+        "визуализация",
+        "концепт-дизайн"
+      ],
+      "url": "https://m-shtab.ru/adapttoebike",
+      "official_case_url": "https://m-shtab.ru/adapttoebike",
+      "markdown": "cases/adapttoebike.md",
+      "client": null,
+      "client_public": false
+    },
+    {
+      "slug": "aerolodka-sever",
+      "title": "Дизайн аэролодки «Север»",
+      "product": "Аэролодка «Север»",
+      "category": [
+        "транспорт"
+      ],
+      "mark": null,
+      "location": "Россия",
+      "services": [
+        "эскизный дизайн-проект"
+      ],
+      "url": "https://m-shtab.ru/aerolodka-sever",
+      "official_case_url": "https://m-shtab.ru/aerolodka-sever",
+      "markdown": "cases/aerolodka-sever.md",
+      "client": null,
+      "client_public": false,
+      "year": 2024
+    },
+    {
+      "slug": "aimol",
+      "title": "Дизайн канистр Aimol для серийного выпуска",
+      "product": "Канистры Aimol",
+      "category": [
+        "транспорт",
+        "упаковка / тара"
+      ],
+      "mark": "СЕРИЙНОЕ ПРОИЗВОДСТВО",
+      "location": "Россия",
+      "services": [
+        "промышленный дизайн",
+        "3D-моделирование"
+      ],
+      "url": "https://m-shtab.ru/aimol",
+      "official_case_url": "https://m-shtab.ru/aimol",
+      "markdown": "cases/aimol.md",
+      "client": "Aimol"
+    },
+    {
+      "slug": "aimol-design-kanistry-etiketki",
+      "title": "Дизайн этикеток канистр Aimol × ФК Ростов",
+      "product": "Этикетки канистр Aimol x ФК Ростов",
+      "category": [
+        "транспорт",
+        "упаковка / тара"
+      ],
+      "mark": "СЕРИЙНОЕ ПРОИЗВОДСТВО",
+      "location": "Россия",
+      "services": [
+        "Креативная концепция",
+        "дизайн этикеток",
+        "подготовка шаблонов для производства"
+      ],
+      "url": "https://m-shtab.ru/aimol-design-kanistry-etiketki",
+      "official_case_url": "https://m-shtab.ru/aimol-design-kanistry-etiketki",
+      "markdown": "cases/aimol-design-kanistry-etiketki.md",
+      "client": "Aimol",
+      "year": 2024
+    },
+    {
+      "slug": "apparat-promishlennoi-sortirovki-eksli",
+      "title": "Дизайн: Аппарат промышленной сортировки EKSLI",
+      "product": "Аппарат промышленной сортировки EKSLI",
+      "category": [
+        "промышленное оборудование"
+      ],
+      "mark": null,
+      "location": "Россия",
+      "services": [
+        "эскизный дизайн-проект",
+        "3D-моделирование"
+      ],
+      "url": "https://m-shtab.ru/apparat-promishlennoi-sortirovki-eksli",
+      "official_case_url": "https://m-shtab.ru/apparat-promishlennoi-sortirovki-eksli",
+      "markdown": "cases/apparat-promishlennoi-sortirovki-eksli.md",
+      "client": "EKSLi",
+      "year": 2024
+    },
+    {
+      "slug": "bankomat-dlya-banka-iz-top-5",
+      "title": "Дизайн: Банкомат для банка из ТОП-5",
+      "product": "Банкомат для банка из ТОП-5",
+      "category": [
+        "корпуса / электроника",
+        "оборудование самообслуживания"
+      ],
+      "mark": null,
+      "location": "Россия",
+      "services": [
+        "эскизный дизайн-проект",
+        "3D-моделирование"
+      ],
+      "url": "https://m-shtab.ru/bankomat-dlya-banka-iz-top-5",
+      "official_case_url": "https://m-shtab.ru/bankomat-dlya-banka-iz-top-5",
+      "markdown": "cases/bankomat-dlya-banka-iz-top-5.md",
+      "client": null,
+      "client_public": false,
+      "year": 2022
+    },
+    {
+      "slug": "barrier",
+      "title": "Дизайн: Дизайн фильтр-кувшина «БАРЬЕР РУС»",
+      "product": "Дизайн фильтр-кувшина «БАРЬЕР РУС»",
+      "category": [
+        "бытовая техника"
+      ],
+      "mark": null,
+      "location": "Россия",
+      "services": [
+        "промышленный дизайн",
+        "3D-моделирование",
+        "цветографика"
+      ],
+      "url": "https://m-shtab.ru/barrier",
+      "official_case_url": "https://m-shtab.ru/barrier",
+      "markdown": "cases/barrier.md",
+      "client": "БАРЬЕР РУС"
+    },
+    {
+      "slug": "carbogatto_1",
+      "title": "Дизайн: Прототип электромотоцикла «Carbogatto»",
+      "product": "Прототип электромотоцикла «Carbogatto»",
+      "category": [
+        "транспорт"
+      ],
+      "mark": "МАЛАЯ СЕРИЯ",
+      "location": "Россия",
+      "services": [
+        "3D-моделирование",
+        "цветографика",
+        "визуализация"
+      ],
+      "url": "https://m-shtab.ru/carbogatto_1",
+      "official_case_url": "https://m-shtab.ru/carbogatto_1",
+      "markdown": "cases/carbogatto_1.md",
+      "client": "Carbogatto"
+    },
+    {
+      "slug": "dizain-kod-shanti",
+      "title": "Дизайн-код экстерьера модульных домов Shanti",
+      "product": "Модульные дома «Shanti»",
+      "category": [
+        "промышленный дизайн"
+      ],
+      "mark": null,
+      "location": "Россия",
+      "services": [
+        "Аналитика",
+        "концепция идентификации",
+        "разработка цветовых палитр",
+        "проектирование фасадных элементов"
+      ],
+      "url": "https://m-shtab.ru/dizain-kod-shanti",
+      "official_case_url": "https://m-shtab.ru/dizain-kod-shanti",
+      "markdown": "cases/dizain-kod-shanti.md",
+      "client": null,
+      "client_public": false,
+      "year": 2025
+    },
+    {
+      "slug": "euroliftmash",
+      "title": "Дизайн лифтовых кабин Евролифтмаш для серии",
+      "product": "Лифты «Евролифтмаш»",
+      "category": [
+        "транспорт"
+      ],
+      "mark": "СЕРИЙНОЕ ПРОИЗВОДСТВО",
+      "location": "Россия",
+      "services": [
+        "промышленный дизайн",
+        "цветографика"
+      ],
+      "url": "https://m-shtab.ru/euroliftmash",
+      "official_case_url": "https://m-shtab.ru/euroliftmash",
+      "markdown": "cases/euroliftmash.md",
+      "client": "Евролифтмаш"
+    },
+    {
+      "slug": "gaz-safety-car",
+      "title": "Дизайн: ГАЗ safety car",
+      "product": "ГАЗ safety car",
+      "category": [
+        "упаковка / тара"
+      ],
+      "mark": null,
+      "location": "Россия",
+      "services": [
+        "концепт-дизайн"
+      ],
+      "url": "https://m-shtab.ru/gaz-safety-car",
+      "official_case_url": "https://m-shtab.ru/gaz-safety-car",
+      "markdown": "cases/gaz-safety-car.md",
+      "client": null,
+      "client_public": false,
+      "year": 2021
+    },
+    {
+      "slug": "gladiator",
+      "title": "Дизайн SUP-досок Gladiator",
+      "product": "SUP-доски «Gladiator»",
+      "category": [
+        "транспорт"
+      ],
+      "mark": "СЕРИЙНОЕ ПРОИЗВОДСТВО",
+      "location": "Россия",
+      "services": [
+        "Аналитика",
+        "дизайн",
+        "гайдлайны для постановки на производства"
+      ],
+      "url": "https://m-shtab.ru/gladiator",
+      "official_case_url": "https://m-shtab.ru/gladiator",
+      "markdown": "cases/gladiator.md",
+      "client": "Gladiator"
+    },
+    {
+      "slug": "gladiator-boats",
+      "title": "Дизайн: Лодки с надувным дном «Gladiator»",
+      "product": "Лодки с надувным дном «Gladiator»",
+      "category": [
+        "транспорт"
+      ],
+      "mark": "СЕРИЙНОЕ ПРОИЗВОДСТВО",
+      "location": "Россия",
+      "services": [
+        "цветографика"
+      ],
+      "url": "https://m-shtab.ru/gladiator-boats",
+      "official_case_url": "https://m-shtab.ru/gladiator-boats",
+      "markdown": "cases/gladiator-boats.md",
+      "client": "Gladiator"
+    },
+    {
+      "slug": "hausbot",
+      "title": "Дизайн: Хаусбот",
+      "product": "Хаусбот",
+      "category": [
+        "транспорт"
+      ],
+      "mark": null,
+      "location": "Россия",
+      "services": [
+        "промышленный дизайн",
+        "3D-моделирование"
+      ],
+      "url": "https://m-shtab.ru/hausbot",
+      "official_case_url": "https://m-shtab.ru/hausbot",
+      "markdown": "cases/hausbot.md",
+      "client": null,
+      "client_public": false,
+      "year": 2019
+    },
+    {
+      "slug": "hi-fly-drone",
+      "title": "Дизайн дрона-доставщика «Hi-Fly»",
+      "product": "Малый грузовой дрон «Hi-Fly»",
+      "category": [
+        "транспорт"
+      ],
+      "mark": "СЕРИЙНОЕ ПРОИЗВОДСТВО",
+      "location": "Россия",
+      "services": [
+        "эскизный дизайн-проект",
+        "3D-моделирование"
+      ],
+      "url": "https://m-shtab.ru/hi-fly-drone",
+      "official_case_url": "https://m-shtab.ru/hi-fly-drone",
+      "markdown": "cases/hi-fly-drone.md",
+      "client": null,
+      "client_public": false,
+      "year": 2024
+    },
+    {
+      "slug": "icross",
+      "title": "Дизайн: Карбоновое инвалидное кресло «iCross»",
+      "product": "Карбоновое инвалидное кресло «iCross»",
+      "category": [
+        "потребительские товары"
+      ],
+      "mark": "СЕРИЙНОЕ ПРОИЗВОДСТВО",
+      "location": "Россия",
+      "services": [
+        "3D-моделирование",
+        "цветографика"
+      ],
+      "url": "https://m-shtab.ru/icross",
+      "official_case_url": "https://m-shtab.ru/icross",
+      "markdown": "cases/icross.md",
+      "client": null,
+      "client_public": false
+    },
+    {
+      "slug": "infopathy",
+      "title": "Дизайн: Аппарат для терапии Infopathy IC Pad 3",
+      "product": "Аппарат для терапии Infopathy IC Pad 3",
+      "category": [
+        "медтехника",
+        "корпуса / электроника"
+      ],
+      "mark": "СЕРИЙНОЕ ПРОИЗВОДСТВО",
+      "location": "Россия",
+      "services": [
+        "промышленный дизайн",
+        "3D-моделирование"
+      ],
+      "url": "https://m-shtab.ru/infopathy",
+      "official_case_url": "https://m-shtab.ru/infopathy",
+      "markdown": "cases/infopathy.md",
+      "client": "Infopathy"
+    },
+    {
+      "slug": "interer-aerotaksi-hi-fly",
+      "title": "Дизайн: Интерьер аэротакси «Hi-Fly»",
+      "product": "Интерьер аэротакси «Hi-Fly»",
+      "category": [
+        "промышленный дизайн"
+      ],
+      "mark": "МАЛАЯ СЕРИЯ",
+      "location": "Россия",
+      "services": [
+        "эскизный дизайн-проект",
+        "3D-моделирование",
+        "авторский надзор прототипа"
+      ],
+      "url": "https://m-shtab.ru/interer-aerotaksi-hi-fly",
+      "official_case_url": "https://m-shtab.ru/interer-aerotaksi-hi-fly",
+      "markdown": "cases/interer-aerotaksi-hi-fly.md",
+      "client": null,
+      "client_public": false,
+      "year": 2024
+    },
+    {
+      "slug": "interier-tramvaya-vityaz",
+      "title": "Дизайн интерьера трамвая 71-931 «Витязь»",
+      "product": "Интерьер трамвая 71-931 «Витязь»",
+      "category": [
+        "транспорт"
+      ],
+      "mark": null,
+      "location": "Россия",
+      "services": [
+        "цветографика"
+      ],
+      "url": "https://m-shtab.ru/interier-tramvaya-vityaz",
+      "official_case_url": "https://m-shtab.ru/interier-tramvaya-vityaz",
+      "markdown": "cases/interier-tramvaya-vityaz.md",
+      "client": null,
+      "client_public": false,
+      "year": 2024
+    },
+    {
+      "slug": "kasperskylab",
+      "title": "Дизайн: Выставочный стенд для «Kaspersky Lab»",
+      "product": "Выставочный стенд для «Kaspersky Lab»",
+      "category": [
+        "энергетика / инфраструктура"
+      ],
+      "mark": "МАЛАЯ СЕРИЯ",
+      "location": "Россия",
+      "services": [
+        "промышленный дизайн",
+        "3D-моделирование"
+      ],
+      "url": "https://m-shtab.ru/kasperskylab",
+      "official_case_url": "https://m-shtab.ru/kasperskylab",
+      "markdown": "cases/kasperskylab.md",
+      "client": "Kaspersky Lab"
+    },
+    {
+      "slug": "kayak-xyak-kompanii-third-pin",
+      "title": "Дизайн: Каяк «Xyak» компании THIRD PIN",
+      "product": "Каяк «Xyak» компании THIRD PIN",
+      "category": [
+        "транспорт"
+      ],
+      "mark": "МАЛАЯ СЕРИЯ",
+      "location": "Россия",
+      "services": [
+        "эскизный дизайн-проект",
+        "цветографика"
+      ],
+      "url": "https://m-shtab.ru/kayak-xyak-kompanii-third-pin",
+      "official_case_url": "https://m-shtab.ru/kayak-xyak-kompanii-third-pin",
+      "markdown": "cases/kayak-xyak-kompanii-third-pin.md",
+      "client": "THIRD PIN",
+      "year": 2020
+    },
+    {
+      "slug": "kitfort",
+      "title": "Дизайн бытовой техники Kitfort для серии",
+      "product": "Бытовые приборы «Kitfort»",
+      "category": [
+        "бытовая техника"
+      ],
+      "mark": "СЕРИЙНОЕ ПРОИЗВОДСТВО",
+      "location": "Россия",
+      "services": [
+        "Креативная концепция",
+        "цветографическое решение",
+        "технологические карты"
+      ],
+      "url": "https://m-shtab.ru/kitfort",
+      "official_case_url": "https://m-shtab.ru/kitfort",
+      "markdown": "cases/kitfort.md",
+      "client": "Kitfort"
+    },
+    {
+      "slug": "kollektsiya-mebeli-iz-karbona",
+      "title": "Дизайн: Коллекция мебели из карбона",
+      "product": "Коллекция мебели из карбона",
+      "category": [
+        "потребительские товары"
+      ],
+      "mark": null,
+      "location": "Россия",
+      "services": [
+        "промышленный дизайн",
+        "3D-моделирование"
+      ],
+      "url": "https://m-shtab.ru/kollektsiya-mebeli-iz-karbona",
+      "official_case_url": "https://m-shtab.ru/kollektsiya-mebeli-iz-karbona",
+      "markdown": "cases/kollektsiya-mebeli-iz-karbona.md",
+      "client": null,
+      "client_public": false,
+      "year": 2019
+    },
+    {
+      "slug": "kontsept-zakritogo-snegohoda-newtone-sno",
+      "title": "Дизайн: Концепт закрытого снегохода «Newtone Snowmobile»",
+      "product": "Концепт закрытого снегохода «Newtone Snowmobile»",
+      "category": [
+        "транспорт"
+      ],
+      "mark": null,
+      "location": "Россия",
+      "services": [
+        "эскизный дизайн-проект",
+        "концепт-дизайн"
+      ],
+      "url": "https://m-shtab.ru/kontsept-zakritogo-snegohoda-newtone-sno",
+      "official_case_url": "https://m-shtab.ru/kontsept-zakritogo-snegohoda-newtone-sno",
+      "markdown": "cases/kontsept-zakritogo-snegohoda-newtone-sno.md",
+      "client": null,
+      "client_public": false,
+      "year": 2019
+    },
+    {
+      "slug": "kvadrotsikli-rm-650-2-i-rm-500-2",
+      "title": "Дизайн: Квадроциклы RM 650-2 и RM 500-2",
+      "product": "Квадроциклы RM 650-2 и RM 500-2",
+      "category": [
+        "транспорт",
+        "корпуса / электроника"
+      ],
+      "mark": "СЕРИЙНОЕ ПРОИЗВОДСТВО",
+      "location": "Россия",
+      "services": [
+        "промышленный дизайн"
+      ],
+      "url": "https://m-shtab.ru/kvadrotsikli-rm-650-2-i-rm-500-2",
+      "official_case_url": "https://m-shtab.ru/kvadrotsikli-rm-650-2-i-rm-500-2",
+      "markdown": "cases/kvadrotsikli-rm-650-2-i-rm-500-2.md",
+      "client": null,
+      "client_public": false,
+      "year": 2018
+    },
+    {
+      "slug": "lcharge",
+      "title": "Дизайн электрозарядных станций L-Charge",
+      "product": "Электрозарядные станции «L-Charge»",
+      "category": [
+        "энергетика / инфраструктура"
+      ],
+      "mark": "МАЛАЯ СЕРИЯ",
+      "location": "Россия",
+      "services": [
+        "3D-моделирование",
+        "визуализация"
+      ],
+      "url": "https://m-shtab.ru/lcharge",
+      "official_case_url": "https://m-shtab.ru/lcharge",
+      "markdown": "cases/lcharge.md",
+      "client": "L-Charge"
+    },
+    {
+      "slug": "lcharge-boat",
+      "title": "Дизайн: Катер для зарядки электротранспорта «L-Charge»",
+      "product": "Катер для зарядки электротранспорта «L-Charge»",
+      "category": [
+        "энергетика / инфраструктура"
+      ],
+      "mark": null,
+      "location": "Россия",
+      "services": [
+        "3D-моделирование",
+        "визуализация"
+      ],
+      "url": "https://m-shtab.ru/lcharge-boat",
+      "official_case_url": "https://m-shtab.ru/lcharge-boat",
+      "markdown": "cases/lcharge-boat.md",
+      "client": "L-Charge"
+    },
+    {
+      "slug": "lcharge-mobile",
+      "title": "Дизайн мобильной зарядной станции L-Charge",
+      "product": "Мобильная электрозарядная станция «L-Charge»",
+      "category": [
+        "энергетика / инфраструктура"
+      ],
+      "mark": "МАЛАЯ СЕРИЯ",
+      "location": "Россия",
+      "services": [
+        "3D-моделирование",
+        "визуализация"
+      ],
+      "url": "https://m-shtab.ru/lcharge-mobile",
+      "official_case_url": "https://m-shtab.ru/lcharge-mobile",
+      "markdown": "cases/lcharge-mobile.md",
+      "client": "L-Charge"
+    },
+    {
+      "slug": "lider",
+      "title": "Дизайн вагон-домов «Лидер»",
+      "product": "Вагон-дома «Лидер»",
+      "category": [
+        "промышленный дизайн"
+      ],
+      "mark": null,
+      "location": "Россия",
+      "services": [
+        "промышленный дизайн"
+      ],
+      "url": "https://m-shtab.ru/lider",
+      "official_case_url": "https://m-shtab.ru/lider",
+      "markdown": "cases/lider.md",
+      "client": null,
+      "client_public": false,
+      "year": 2025
+    },
+    {
+      "slug": "livrei-samoleta-lms-901",
+      "title": "Дизайн: Ливреи самолета «ЛМС-901»",
+      "product": "Ливреи самолета «ЛМС-901»",
+      "category": [
+        "транспорт"
+      ],
+      "mark": null,
+      "location": "Россия",
+      "services": [
+        "эскизный дизайн-проект",
+        "цветографика"
+      ],
+      "url": "https://m-shtab.ru/livrei-samoleta-lms-901",
+      "official_case_url": "https://m-shtab.ru/livrei-samoleta-lms-901",
+      "markdown": "cases/livrei-samoleta-lms-901.md",
+      "client": null,
+      "client_public": false,
+      "year": 2021
+    },
+    {
+      "slug": "loader",
+      "title": "Дизайн и брендинг вилочных погрузчиков",
+      "product": "Вилочные погрузчики",
+      "category": [
+        "транспорт"
+      ],
+      "mark": "СЕРИЙНОЕ ПРОИЗВОДСТВО",
+      "location": "Россия",
+      "services": [
+        "эскизный дизайн-проект",
+        "цветографика"
+      ],
+      "url": "https://m-shtab.ru/loader",
+      "official_case_url": "https://m-shtab.ru/loader",
+      "markdown": "cases/loader.md",
+      "client": null,
+      "client_public": false
+    },
+    {
+      "slug": "logistic-robot",
+      "title": "Дизайн: Логистический робот «MiR200»",
+      "product": "Логистический робот «MiR200»",
+      "category": [
+        "робототехника"
+      ],
+      "mark": null,
+      "location": "Россия",
+      "services": [
+        "3D-моделирование",
+        "визуализация",
+        "промовизуализация"
+      ],
+      "url": "https://m-shtab.ru/logistic-robot",
+      "official_case_url": "https://m-shtab.ru/logistic-robot",
+      "markdown": "cases/logistic-robot.md",
+      "client": "Mobile Industrial Robots"
+    },
+    {
+      "slug": "longboard",
+      "title": "Дизайн: Цветографика для лонгбордов «Ruzh»",
+      "product": "Цветографика для лонгбордов «Ruzh»",
+      "category": [
+        "потребительские товары"
+      ],
+      "mark": "МАЛАЯ СЕРИЯ",
+      "location": "Россия",
+      "services": [
+        "Графический дизайн",
+        "сопровождение мелкосерийного производства"
+      ],
+      "url": "https://m-shtab.ru/longboard",
+      "official_case_url": "https://m-shtab.ru/longboard",
+      "markdown": "cases/longboard.md",
+      "client": null,
+      "client_public": false
+    },
+    {
+      "slug": "macrolinza",
+      "title": "Дизайн: Макролинза",
+      "product": "Макролинза",
+      "category": [
+        "корпуса / электроника"
+      ],
+      "mark": "СЕРИЙНОЕ ПРОИЗВОДСТВО",
+      "location": "Россия",
+      "services": [
+        "промышленный дизайн",
+        "3D-моделирование"
+      ],
+      "url": "https://m-shtab.ru/macrolinza",
+      "official_case_url": "https://m-shtab.ru/macrolinza",
+      "markdown": "cases/macrolinza.md",
+      "client": null,
+      "client_public": false,
+      "year": 2025
+    },
+    {
+      "slug": "medtable",
+      "title": "Дизайн: Интерактивный стол «5VID»",
+      "product": "Интерактивный стол «5VID»",
+      "category": [
+        "медтехника",
+        "упаковка / тара"
+      ],
+      "mark": "СЕРИЙНОЕ ПРОИЗВОДСТВО",
+      "location": "Россия",
+      "services": [
+        "эскизный дизайн-проект",
+        "3D-моделирование"
+      ],
+      "url": "https://m-shtab.ru/medtable",
+      "official_case_url": "https://m-shtab.ru/medtable",
+      "markdown": "cases/medtable.md",
+      "client": null,
+      "client_public": false
+    },
+    {
+      "slug": "metrotram-krasnoyarsk",
+      "title": "Дизайн этикеток канистр Aimol x ФК Ростов",
+      "product": "Метротрам для Красноярска",
+      "category": [
+        "транспорт"
+      ],
+      "mark": null,
+      "location": "Россия",
+      "services": [
+        "цветографика"
+      ],
+      "url": "https://m-shtab.ru/metrotram-krasnoyarsk",
+      "official_case_url": "https://m-shtab.ru/metrotram-krasnoyarsk",
+      "markdown": "cases/metrotram-krasnoyarsk.md",
+      "client": null,
+      "client_public": false,
+      "year": 2024
+    },
+    {
+      "slug": "mnogofunktsionalnii-vezdehod-termit",
+      "title": "Дизайн: Многофункциональный вездеход «Термит»",
+      "product": "Многофункциональный вездеход «Термит»",
+      "category": [
+        "транспорт"
+      ],
+      "mark": "СЕРИЙНОЕ ПРОИЗВОДСТВО",
+      "location": "Россия",
+      "services": [
+        "промышленный дизайн",
+        "3D-моделирование"
+      ],
+      "url": "https://m-shtab.ru/mnogofunktsionalnii-vezdehod-termit",
+      "official_case_url": "https://m-shtab.ru/mnogofunktsionalnii-vezdehod-termit",
+      "markdown": "cases/mnogofunktsionalnii-vezdehod-termit.md",
+      "client": "Русская механика",
+      "year": 2019
+    },
+    {
+      "slug": "ploskoshlifovalnyj-stanok-lsp",
+      "title": "Дизайн плоскошлифовального станка с ЧПУ «ЛСП»",
+      "product": "Плоскошлифовальный станок с ЧПУ «ЛСП»",
+      "category": [
+        "промышленное оборудование"
+      ],
+      "mark": "СЕРИЙНОЕ ПРОИЗВОДСТВО",
+      "location": "Россия",
+      "services": [
+        "промышленный дизайн",
+        "3D-моделирование"
+      ],
+      "url": "https://m-shtab.ru/ploskoshlifovalnyj-stanok-lsp",
+      "official_case_url": "https://m-shtab.ru/ploskoshlifovalnyj-stanok-lsp",
+      "markdown": "cases/ploskoshlifovalnyj-stanok-lsp.md",
+      "client": null,
+      "client_public": false,
+      "year": 2022
+    },
+    {
+      "slug": "pogruzchik-grinteh-p300",
+      "title": "Дизайн: Погрузчик «Гринтех П300»",
+      "product": "Погрузчик «Гринтех П300»",
+      "category": [
+        "транспорт"
+      ],
+      "mark": null,
+      "location": "Россия",
+      "services": [
+        "эскизный дизайн-проект",
+        "концепт-дизайн"
+      ],
+      "url": "https://m-shtab.ru/pogruzchik-grinteh-p300",
+      "official_case_url": "https://m-shtab.ru/pogruzchik-grinteh-p300",
+      "markdown": "cases/pogruzchik-grinteh-p300.md",
+      "client": null,
+      "client_public": false,
+      "year": 2025
+    },
     {
       "slug": "pogruzchik-grosler-gi-1300",
       "title": "Дизайн погрузчика GROSLER GI 1300",
-      "client": "GROSLER",
-      "product": "GROSLER GI 1300",
-      "category": ["складская техника", "транспорт"],
+      "product": "Погрузчик «GROSLER GI 1300»",
+      "category": [
+        "транспорт",
+        "корпуса / электроника"
+      ],
       "mark": "МАЛАЯ СЕРИЯ",
       "location": "Россия",
-      "services": ["промышленный дизайн", "3D-моделирование", "цветографика", "авторский надзор прототипа"],
+      "services": [
+        "промышленный дизайн",
+        "3D-моделирование",
+        "цветографика",
+        "авторский надзор прототипа"
+      ],
       "url": "https://m-shtab.ru/pogruzchik-grosler-gi-1300",
-      "markdown": "cases/pogruzchik-grosler-gi-1300.md"
+      "official_case_url": "https://m-shtab.ru/pogruzchik-grosler-gi-1300",
+      "markdown": "cases/pogruzchik-grosler-gi-1300.md",
+      "client": "GROSLER"
     },
     {
       "slug": "pro-tok",
       "title": "Дизайн-ДНК «Про-ток»: фирменный стиль фасадов",
-      "client": "Про-ток / Pro-Tok",
-      "product": "Высоковольтное оборудование",
-      "category": ["промышленное оборудование", "дизайн-ДНК"],
+      "product": "Дизайн-ДНК «Про-ток»",
+      "category": [
+        "дизайн-ДНК"
+      ],
       "mark": "СЕРИЙНОЕ ПРОИЗВОДСТВО",
       "location": "Россия",
-      "services": ["промышленный дизайн", "дизайн-ДНК"],
+      "services": [
+        "промышленный дизайн",
+        "дизайн-ДНК"
+      ],
       "url": "https://m-shtab.ru/pro-tok",
-      "markdown": "cases/pro-tok.md"
+      "official_case_url": "https://m-shtab.ru/pro-tok",
+      "markdown": "cases/pro-tok.md",
+      "client": "Про-ток / Pro-Tok"
+    },
+    {
+      "slug": "pro-tok-stations",
+      "title": "Дизайн трансформаторных подстанций «Про-ток»",
+      "product": "Трансформаторные подстанции «Про-ток»",
+      "category": [
+        "энергетика / инфраструктура",
+        "корпуса / электроника"
+      ],
+      "mark": null,
+      "location": "Россия",
+      "services": [
+        "эскизный дизайн-проект"
+      ],
+      "url": "https://m-shtab.ru/pro-tok-stations",
+      "official_case_url": "https://m-shtab.ru/pro-tok-stations",
+      "markdown": "cases/pro-tok-stations.md",
+      "client": "Про-ток / Pro-Tok",
+      "year": 2025
+    },
+    {
+      "slug": "rezon-hdc330",
+      "title": "Дизайн: Ленточно-отрезной станок «REZON»",
+      "product": "Ленточно-отрезной станок «REZON»",
+      "category": [
+        "промышленное оборудование",
+        "корпуса / электроника"
+      ],
+      "mark": "СЕРИЙНОЕ ПРОИЗВОДСТВО",
+      "location": "Россия",
+      "services": [
+        "3D-моделирование"
+      ],
+      "url": "https://m-shtab.ru/rezon-hdc330",
+      "official_case_url": "https://m-shtab.ru/rezon-hdc330",
+      "markdown": "cases/rezon-hdc330.md",
+      "client": "REZON"
     },
     {
       "slug": "rfid-schityvatel-isbc",
       "title": "Дизайн RFID-считывателя ISBC",
-      "client": "ISBC",
       "product": "RFID-считыватель ISBC",
-      "category": ["электроника", "корпуса"],
+      "category": [
+        "корпуса / электроника"
+      ],
       "mark": "СЕРИЙНОЕ ПРОИЗВОДСТВО",
       "location": "Россия",
-      "services": ["промышленный дизайн", "функциональная графика"],
+      "services": [
+        "промышленный дизайн",
+        "функциональная графика"
+      ],
       "url": "https://m-shtab.ru/rfid-schityvatel-isbc",
-      "markdown": "cases/rfid-schityvatel-isbc.md"
+      "official_case_url": "https://m-shtab.ru/rfid-schityvatel-isbc",
+      "markdown": "cases/rfid-schityvatel-isbc.md",
+      "client": "ISBC"
+    },
+    {
+      "slug": "rm800_cmf_id",
+      "title": "Дизайн: Мотовездеход «RM-800 duo»",
+      "product": "Мотовездеход «RM-800 duo»",
+      "category": [
+        "транспорт"
+      ],
+      "mark": "СЕРИЙНОЕ ПРОИЗВОДСТВО",
+      "location": "Россия",
+      "services": [
+        "промышленный дизайн"
+      ],
+      "url": "https://m-shtab.ru/rm800_cmf_id",
+      "official_case_url": "https://m-shtab.ru/rm800_cmf_id",
+      "markdown": "cases/rm800_cmf_id.md",
+      "client": "Русская механика"
+    },
+    {
+      "slug": "rm_buran_leader",
+      "title": "Дизайн: Цветографическое решение «Буран Лидер»",
+      "product": "Цветографическое решение «Буран Лидер»",
+      "category": [
+        "транспорт"
+      ],
+      "mark": "СЕРИЙНОЕ ПРОИЗВОДСТВО",
+      "location": "Россия",
+      "services": [
+        "цветографика"
+      ],
+      "url": "https://m-shtab.ru/rm_buran_leader",
+      "official_case_url": "https://m-shtab.ru/rm_buran_leader",
+      "markdown": "cases/rm_buran_leader.md",
+      "client": "Русская механика"
+    },
+    {
+      "slug": "rm_frontier",
+      "title": "Дизайн снегохода Frontier 1000 для Русской Механики",
+      "product": "Снегоход «RM Frontier-1000»",
+      "category": [
+        "транспорт",
+        "корпуса / электроника"
+      ],
+      "mark": "СЕРИЙНОЕ ПРОИЗВОДСТВО",
+      "location": "Россия",
+      "services": [
+        "3D-моделирование"
+      ],
+      "url": "https://m-shtab.ru/rm_frontier",
+      "official_case_url": "https://m-shtab.ru/rm_frontier",
+      "markdown": "cases/rm_frontier.md",
+      "client": "Русская механика"
+    },
+    {
+      "slug": "rps",
+      "title": "Дизайн парковочного оборудования RPS для серии",
+      "product": "Парковочное оборудование RPS",
+      "category": [
+        "оборудование самообслуживания"
+      ],
+      "mark": "СЕРИЙНОЕ ПРОИЗВОДСТВО",
+      "location": "Россия",
+      "services": [
+        "промышленный дизайн",
+        "3D-моделирование",
+        "цветографика"
+      ],
+      "url": "https://m-shtab.ru/rps",
+      "official_case_url": "https://m-shtab.ru/rps",
+      "markdown": "cases/rps.md",
+      "client": "RPS"
+    },
+    {
+      "slug": "semnaya-krisha-gusenichnogo-bolotohoda-t",
+      "title": "Дизайн: Съемная крыша гусеничного болотохода «Tinger TR5»",
+      "product": "Съемная крыша гусеничного болотохода «Tinger TR5»",
+      "category": [
+        "транспорт"
+      ],
+      "mark": null,
+      "location": "Россия",
+      "services": [
+        "эскизный дизайн-проект"
+      ],
+      "url": "https://m-shtab.ru/semnaya-krisha-gusenichnogo-bolotohoda-t",
+      "official_case_url": "https://m-shtab.ru/semnaya-krisha-gusenichnogo-bolotohoda-t",
+      "markdown": "cases/semnaya-krisha-gusenichnogo-bolotohoda-t.md",
+      "client": null,
+      "client_public": false,
+      "year": 2022
+    },
+    {
+      "slug": "separator-eksli",
+      "title": "Дизайн сепаратора ТКО «Прогресс-1» для EKSLi",
+      "product": "Сепаратор ТКО «Прогресс-1» для EKSLi",
+      "category": [
+        "промышленное оборудование"
+      ],
+      "mark": "МАЛАЯ СЕРИЯ",
+      "location": "Россия",
+      "services": [
+        "промышленный дизайн"
+      ],
+      "url": "https://m-shtab.ru/separator-eksli",
+      "official_case_url": "https://m-shtab.ru/separator-eksli",
+      "markdown": "cases/separator-eksli.md",
+      "client": "EKSLi",
+      "year": 2024
+    },
+    {
+      "slug": "skladnoi-gorodskoi-velosiped-10",
+      "title": "Дизайн: Складной городской велосипед 1.0.",
+      "product": "Складной городской велосипед 1.0.",
+      "category": [
+        "транспорт"
+      ],
+      "mark": "МАЛАЯ СЕРИЯ",
+      "location": "Россия",
+      "services": [
+        "эскизный дизайн-проект",
+        "3D-моделирование"
+      ],
+      "url": "https://m-shtab.ru/skladnoi-gorodskoi-velosiped-10",
+      "official_case_url": "https://m-shtab.ru/skladnoi-gorodskoi-velosiped-10",
+      "markdown": "cases/skladnoi-gorodskoi-velosiped-10.md",
+      "client": null,
+      "client_public": false,
+      "year": 2018
+    },
+    {
+      "slug": "snegobolotohod-sever",
+      "title": "Дизайн снегоболотохода «Север»",
+      "product": "Снегоболотоход «Север»",
+      "category": [
+        "транспорт"
+      ],
+      "mark": null,
+      "location": "Россия",
+      "services": [
+        "эскизный дизайн-проект"
+      ],
+      "url": "https://m-shtab.ru/snegobolotohod-sever",
+      "official_case_url": "https://m-shtab.ru/snegobolotohod-sever",
+      "markdown": "cases/snegobolotohod-sever.md",
+      "client": null,
+      "client_public": false,
+      "year": 2024
+    },
+    {
+      "slug": "snegohod-tiksi-500-4t",
+      "title": "Дизайн: Снегоход «Тикси 500 4Т»",
+      "product": "Снегоход «Тикси 500 4Т»",
+      "category": [
+        "транспорт"
+      ],
+      "mark": "СЕРИЙНОЕ ПРОИЗВОДСТВО",
+      "location": "Россия",
+      "services": [
+        "цветографика"
+      ],
+      "url": "https://m-shtab.ru/snegohod-tiksi-500-4t",
+      "official_case_url": "https://m-shtab.ru/snegohod-tiksi-500-4t",
+      "markdown": "cases/snegohod-tiksi-500-4t.md",
+      "client": null,
+      "client_public": false,
+      "year": 2020
+    },
+    {
+      "slug": "stanki-enisej-dizajn-dnk",
+      "title": "Дизайн-ДНК станков «Енисей»: фирмстиль линейки",
+      "product": "Станки «Енисей»: дизайн-ДНК",
+      "category": [
+        "промышленное оборудование",
+        "дизайн-ДНК"
+      ],
+      "mark": null,
+      "location": "Россия",
+      "services": [
+        "эскизный дизайн-проект"
+      ],
+      "url": "https://m-shtab.ru/stanki-enisej-dizajn-dnk",
+      "official_case_url": "https://m-shtab.ru/stanki-enisej-dizajn-dnk",
+      "markdown": "cases/stanki-enisej-dizajn-dnk.md",
+      "client": "Енисей",
+      "year": 2025
+    },
+    {
+      "slug": "stanok-termicheskoy-rezki-giperplazma",
+      "title": "Дизайн машины термической резки Гиперплазма",
+      "product": "Станок «Гиперплазма»",
+      "category": [
+        "промышленное оборудование",
+        "транспорт",
+        "корпуса / электроника"
+      ],
+      "mark": null,
+      "location": "Россия",
+      "services": [
+        "промышленный дизайн"
+      ],
+      "url": "https://m-shtab.ru/stanok-termicheskoy-rezki-giperplazma",
+      "official_case_url": "https://m-shtab.ru/stanok-termicheskoy-rezki-giperplazma",
+      "markdown": "cases/stanok-termicheskoy-rezki-giperplazma.md",
+      "client": null,
+      "client_public": false,
+      "year": 2025
+    },
+    {
+      "slug": "svarochniy-apparat",
+      "title": "Дизайн сварочного аппарата",
+      "product": "Сварочный аппарат",
+      "category": [
+        "промышленное оборудование",
+        "корпуса / электроника",
+        "упаковка / тара"
+      ],
+      "mark": null,
+      "location": "Россия",
+      "services": [
+        "эскизный дизайн-проект",
+        "3D-моделирование"
+      ],
+      "url": "https://m-shtab.ru/svarochniy-apparat",
+      "official_case_url": "https://m-shtab.ru/svarochniy-apparat",
+      "markdown": "cases/svarochniy-apparat.md",
+      "client": null,
+      "client_public": false,
+      "year": 2025
+    },
+    {
+      "slug": "tactical",
+      "title": "Дизайн: Кейс для тактического оборудования",
+      "product": "Кейс для тактического оборудования",
+      "category": [
+        "потребительские товары"
+      ],
+      "mark": null,
+      "location": "Россия",
+      "services": [
+        "эскизный дизайн-проект",
+        "3D-моделирование"
+      ],
+      "url": "https://m-shtab.ru/tactical",
+      "official_case_url": "https://m-shtab.ru/tactical",
+      "markdown": "cases/tactical.md",
+      "client": null,
+      "client_public": false
+    },
+    {
+      "slug": "tdo-dlya-instrumentov-tornado",
+      "title": "Дизайн: ТДО для инструментов \"Торнадо\"",
+      "product": "ТДО для инструментов \"Торнадо\"",
+      "category": [
+        "упаковка / тара"
+      ],
+      "mark": null,
+      "location": "Россия",
+      "services": [
+        "эскизный дизайн-проект"
+      ],
+      "url": "https://m-shtab.ru/tdo-dlya-instrumentov-tornado",
+      "official_case_url": "https://m-shtab.ru/tdo-dlya-instrumentov-tornado",
+      "markdown": "cases/tdo-dlya-instrumentov-tornado.md",
+      "client": null,
+      "client_public": false,
+      "year": 2022
+    },
+    {
+      "slug": "tomograph",
+      "title": "Дизайн: Дизайн томографа нового типа",
+      "product": "Дизайн томографа нового типа",
+      "category": [
+        "медтехника"
+      ],
+      "mark": null,
+      "location": "Россия",
+      "services": [
+        "эскизный дизайн-проект",
+        "3D-моделирование"
+      ],
+      "url": "https://m-shtab.ru/tomograph",
+      "official_case_url": "https://m-shtab.ru/tomograph",
+      "markdown": "cases/tomograph.md",
+      "client": null,
+      "client_public": false
     },
     {
       "slug": "uv-lampa",
       "title": "Дизайн UV-лампы для мастеров маникюра",
-      "client": null,
-      "client_public": false,
-      "product": "UV-лампа",
-      "category": ["профессиональный инструмент", "корпуса"],
+      "product": "UV-лампа для мастеров маникюра",
+      "category": [
+        "корпуса / электроника"
+      ],
       "mark": "СЕРИЙНОЕ ПРОИЗВОДСТВО",
       "location": "Россия",
-      "year": 2023,
-      "services": ["промышленный дизайн", "3D-моделирование"],
+      "services": [
+        "промышленный дизайн",
+        "3D-моделирование"
+      ],
       "url": "https://m-shtab.ru/uv-lampa",
-      "markdown": "cases/uv-lampa.md"
-    },
-    {
-      "slug": "stanki-enisej-dizajn-dnk",
-      "title": "Дизайн-ДНК станков «Енисей»",
-      "client": "Енисей",
-      "product": "Станки плазменной резки «Енисей»",
-      "category": ["промышленное оборудование", "дизайн-ДНК"],
-      "year": 2025,
-      "location": "Россия",
-      "services": ["дизайн-ДНК", "цветографика", "эскизный дизайн-проект"],
-      "url": "https://m-shtab.ru/stanki-enisej-dizajn-dnk",
-      "markdown": "cases/stanki-enisej-dizajn-dnk.md"
+      "official_case_url": "https://m-shtab.ru/uv-lampa",
+      "markdown": "cases/uv-lampa.md",
+      "client": null,
+      "client_public": false,
+      "year": 2023
     },
     {
       "slug": "vezdehod-varyag",
       "title": "Дизайн вездехода «Варяг»",
       "product": "Вездеход «Варяг»",
-      "category": ["транспорт", "спецтехника"],
-      "year": 2023,
+      "category": [
+        "транспорт"
+      ],
+      "mark": null,
       "location": "Россия",
-      "services": ["эскизный дизайн-проект", "дизайн экстерьера"],
+      "services": [
+        "эскизный дизайн-проект"
+      ],
       "url": "https://m-shtab.ru/vezdehod-varyag",
-      "markdown": "cases/vezdehod-varyag.md"
+      "official_case_url": "https://m-shtab.ru/vezdehod-varyag",
+      "markdown": "cases/vezdehod-varyag.md",
+      "client": null,
+      "client_public": false,
+      "year": 2023
     }
   ]
 }

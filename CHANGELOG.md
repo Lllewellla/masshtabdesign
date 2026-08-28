@@ -2,6 +2,7 @@
 
 ## 2026-08-28
 
+- Отраслевые хабы наполнены списками кейсов из портфолио: `industries/industrial-equipment.md`, `transport-and-special-machinery.md`, `electronics-enclosures.md`.
 - `docs/BACKLOG.md` снят с публичного репозитория.
 - Редактура 61 карточки: «Задача» = реконструкция бизнес-запроса из сайта/контекста (не абстрактный тезис); «Результат» усилен акцентами жюри-пакета. Скрипт: `scripts/rewrite_case_copy.py`.
 - `playbooks/case-card.md` снят с публичного репозитория (внутренний шаблон, не для open-data).

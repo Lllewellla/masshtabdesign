@@ -1,6 +1,7 @@
 ---
 title: "Дизайн: Логистический робот «MiR200»"
 slug: logistic-robot
+id: logistic-robot
 client: "Mobile Industrial Robots"
 client_public: true
 product: "Логистический робот «MiR200»"
@@ -9,8 +10,14 @@ category:
 mark: ""
 location: "Россия"
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/logistic-robot
 official_case_url: https://m-shtab.ru/logistic-robot
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/logistic-robot.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "3D-моделирование"
   - "визуализация"
@@ -24,6 +31,7 @@ team: []
 **Продукт:** Логистический робот «MiR200»  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/logistic-robot
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/logistic-robot.md
 
 ## Короткая карточка
 

@@ -1,6 +1,7 @@
 ---
 title: "Дизайн: Хаусбот"
 slug: hausbot
+id: hausbot
 client: null
 client_public: false
 product: "Хаусбот"
@@ -10,8 +11,14 @@ mark: ""
 location: "Россия"
 year: 2019
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/hausbot
 official_case_url: https://m-shtab.ru/hausbot
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/hausbot.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "промышленный дизайн"
   - "3D-моделирование"
@@ -26,6 +33,7 @@ team:
 **Продукт:** Хаусбот  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/hausbot
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/hausbot.md
 
 ## Короткая карточка
 

@@ -1,6 +1,7 @@
 ---
 title: "Дизайн: Каяк «Xyak» компании THIRD PIN"
 slug: kayak-xyak-kompanii-third-pin
+id: kayak-xyak-kompanii-third-pin
 client: "THIRD PIN"
 client_public: true
 product: "Каяк «Xyak» компании THIRD PIN"
@@ -10,8 +11,14 @@ mark: "МАЛАЯ СЕРИЯ"
 location: "Россия"
 year: 2020
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/kayak-xyak-kompanii-third-pin
 official_case_url: https://m-shtab.ru/kayak-xyak-kompanii-third-pin
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/kayak-xyak-kompanii-third-pin.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "эскизный дизайн-проект"
   - "цветографика"
@@ -27,6 +34,7 @@ team:
 **Стадия / маркер:** МАЛАЯ СЕРИЯ  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/kayak-xyak-kompanii-third-pin
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/kayak-xyak-kompanii-third-pin.md
 
 ## Короткая карточка
 

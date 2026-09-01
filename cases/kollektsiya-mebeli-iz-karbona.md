@@ -1,6 +1,7 @@
 ---
 title: "Дизайн: Коллекция мебели из карбона"
 slug: kollektsiya-mebeli-iz-karbona
+id: kollektsiya-mebeli-iz-karbona
 client: null
 client_public: false
 product: "Коллекция мебели из карбона"
@@ -10,8 +11,14 @@ mark: ""
 location: "Россия"
 year: 2019
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/kollektsiya-mebeli-iz-karbona
 official_case_url: https://m-shtab.ru/kollektsiya-mebeli-iz-karbona
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/kollektsiya-mebeli-iz-karbona.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "промышленный дизайн"
   - "3D-моделирование"
@@ -27,6 +34,7 @@ team:
 **Продукт:** Коллекция мебели из карбона  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/kollektsiya-mebeli-iz-karbona
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/kollektsiya-mebeli-iz-karbona.md
 
 ## Короткая карточка
 

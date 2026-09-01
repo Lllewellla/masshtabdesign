@@ -1,6 +1,7 @@
 ---
 title: "Дизайн: ГАЗ safety car"
 slug: gaz-safety-car
+id: gaz-safety-car
 client: null
 client_public: false
 product: "ГАЗ safety car"
@@ -10,8 +11,14 @@ mark: ""
 location: "Россия"
 year: 2021
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/gaz-safety-car
 official_case_url: https://m-shtab.ru/gaz-safety-car
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/gaz-safety-car.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "концепт-дизайн"
 team:
@@ -25,6 +32,7 @@ team:
 **Продукт:** ГАЗ safety car  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/gaz-safety-car
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/gaz-safety-car.md
 
 ## Короткая карточка
 

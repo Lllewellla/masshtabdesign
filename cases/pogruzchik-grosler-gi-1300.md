@@ -1,6 +1,7 @@
 ---
 title: "Дизайн погрузчика GROSLER GI 1300"
 slug: pogruzchik-grosler-gi-1300
+id: pogruzchik-grosler-gi-1300
 client: "GROSLER"
 client_public: true
 product: "Погрузчик «GROSLER GI 1300»"
@@ -10,8 +11,14 @@ category:
 mark: "МАЛАЯ СЕРИЯ"
 location: "Россия"
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/pogruzchik-grosler-gi-1300
 official_case_url: https://m-shtab.ru/pogruzchik-grosler-gi-1300
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/pogruzchik-grosler-gi-1300.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "промышленный дизайн"
   - "3D-моделирование"
@@ -34,6 +41,7 @@ team:
 **Стадия / маркер:** МАЛАЯ СЕРИЯ  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/pogruzchik-grosler-gi-1300
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/pogruzchik-grosler-gi-1300.md
 
 ## Короткая карточка
 

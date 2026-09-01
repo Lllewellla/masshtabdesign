@@ -1,0 +1,85 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://m-shtab.ru/schemas/claims.json",
+  "title": "Masshtab public claims",
+  "type": "object",
+  "required": ["title", "status", "verified_at", "claims"],
+  "properties": {
+    "title": { "type": "string" },
+    "status": { "type": "string", "enum": ["approved", "draft", "deprecated"] },
+    "verified_at": { "type": "string", "format": "date" },
+    "owner": { "type": "string" },
+    "canonical_url": { "type": "string", "format": "uri" },
+    "blurb_ru": { "type": "string" },
+    "claims": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/claim" }
+    },
+    "forbidden": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  },
+  "$defs": {
+    "claim": {
+      "type": "object",
+      "required": [
+        "id",
+        "claim",
+        "status",
+        "scope",
+        "as_of",
+        "evidence_type",
+        "public_safe",
+        "owner",
+        "kind"
+      ],
+      "properties": {
+        "id": { "type": "string" },
+        "claim": { "type": "string", "description": "Human-readable claim text (usually = text_ru)" },
+        "text_ru": { "type": "string", "description": "Legacy alias of claim; keep for older consumers" },
+        "status": { "type": "string", "enum": ["approved", "draft", "deprecated"] },
+        "scope": { "type": "string" },
+        "as_of": { "type": "string", "format": "date" },
+        "verified_at": { "type": "string", "format": "date" },
+        "evidence_type": {
+          "type": "string",
+          "enum": [
+            "internal-record",
+            "registry",
+            "public-page",
+            "guide",
+            "self-attested"
+          ]
+        },
+        "public_safe": { "type": "boolean" },
+        "owner": { "type": "string" },
+        "source_url": { "type": "string" },
+        "kind": {
+          "type": "string",
+          "enum": ["fact", "case_claim", "interpretation", "positioning"]
+        },
+        "value": {},
+        "unit": { "type": "string" },
+        "definition_ru": { "type": "string" },
+        "currency": { "type": "string" },
+        "valid_from": { "type": "string" },
+        "public_emphasis": { "type": "string" },
+        "hours": { "type": "string" },
+        "telephone": { "type": "string" },
+        "email": { "type": "string" },
+        "area_served_ru": { "type": "string" },
+        "gisp_url": { "type": "string" },
+        "name": { "type": "string" },
+        "jobTitle": { "type": "string" },
+        "years": { "type": "string" },
+        "projects_personal": { "type": "string" },
+        "do_not_use": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      },
+      "additionalProperties": true
+    }
+  }
+}

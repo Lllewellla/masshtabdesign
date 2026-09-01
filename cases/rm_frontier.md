@@ -1,6 +1,7 @@
 ---
 title: "Дизайн снегохода Frontier 1000 для Русской Механики"
 slug: rm_frontier
+id: rm_frontier
 client: "Русская механика"
 client_public: true
 product: "Снегоход «RM Frontier-1000»"
@@ -10,8 +11,14 @@ category:
 mark: "СЕРИЙНОЕ ПРОИЗВОДСТВО"
 location: "Россия"
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/rm_frontier
 official_case_url: https://m-shtab.ru/rm_frontier
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/rm_frontier.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "промышленный дизайн"
   - "3D-моделирование"
@@ -26,6 +33,7 @@ team: []
 **Стадия / маркер:** СЕРИЙНОЕ ПРОИЗВОДСТВО  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/rm_frontier
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/rm_frontier.md
 
 ## Короткая карточка
 

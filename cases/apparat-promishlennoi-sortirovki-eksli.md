@@ -1,6 +1,7 @@
 ---
 title: "Дизайн: Аппарат промышленной сортировки EKSLI"
 slug: apparat-promishlennoi-sortirovki-eksli
+id: apparat-promishlennoi-sortirovki-eksli
 client: "EKSLi"
 client_public: true
 product: "Аппарат промышленной сортировки EKSLI"
@@ -10,8 +11,14 @@ mark: ""
 location: "Россия"
 year: 2024
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/apparat-promishlennoi-sortirovki-eksli
 official_case_url: https://m-shtab.ru/apparat-promishlennoi-sortirovki-eksli
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/apparat-promishlennoi-sortirovki-eksli.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "эскизный дизайн-проект"
   - "3D-моделирование"
@@ -28,6 +35,7 @@ team:
 **Продукт:** Аппарат промышленной сортировки EKSLI  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/apparat-promishlennoi-sortirovki-eksli
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/apparat-promishlennoi-sortirovki-eksli.md
 
 ## Короткая карточка
 

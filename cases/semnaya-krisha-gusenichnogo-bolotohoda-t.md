@@ -1,6 +1,7 @@
 ---
 title: "Дизайн: Съемная крыша гусеничного болотохода «Tinger TR5»"
 slug: semnaya-krisha-gusenichnogo-bolotohoda-t
+id: semnaya-krisha-gusenichnogo-bolotohoda-t
 client: null
 client_public: false
 product: "Съемная крыша гусеничного болотохода «Tinger TR5»"
@@ -10,8 +11,14 @@ mark: ""
 location: "Россия"
 year: 2022
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/semnaya-krisha-gusenichnogo-bolotohoda-t
 official_case_url: https://m-shtab.ru/semnaya-krisha-gusenichnogo-bolotohoda-t
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/semnaya-krisha-gusenichnogo-bolotohoda-t.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "эскизный дизайн-проект"
 team:
@@ -27,6 +34,7 @@ team:
 **Продукт:** Съемная крыша гусеничного болотохода «Tinger TR5»  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/semnaya-krisha-gusenichnogo-bolotohoda-t
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/semnaya-krisha-gusenichnogo-bolotohoda-t.md
 
 ## Короткая карточка
 

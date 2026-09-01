@@ -1,6 +1,7 @@
 ---
 title: "Дизайн сварочного аппарата"
 slug: svarochniy-apparat
+id: svarochniy-apparat
 client: null
 client_public: false
 product: "Сварочный аппарат"
@@ -12,8 +13,14 @@ mark: ""
 location: "Россия"
 year: 2025
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/svarochniy-apparat
 official_case_url: https://m-shtab.ru/svarochniy-apparat
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/svarochniy-apparat.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "эскизный дизайн-проект"
   - "3D-моделирование"
@@ -29,6 +36,7 @@ team:
 **Продукт:** Сварочный аппарат  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/svarochniy-apparat
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/svarochniy-apparat.md
 
 ## Короткая карточка
 

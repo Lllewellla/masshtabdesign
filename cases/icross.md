@@ -1,6 +1,7 @@
 ---
 title: "Дизайн: Карбоновое инвалидное кресло «iCross»"
 slug: icross
+id: icross
 client: null
 client_public: false
 product: "Карбоновое инвалидное кресло «iCross»"
@@ -9,8 +10,14 @@ category:
 mark: "СЕРИЙНОЕ ПРОИЗВОДСТВО"
 location: "Россия"
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/icross
 official_case_url: https://m-shtab.ru/icross
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/icross.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "3D-моделирование"
   - "цветографика"
@@ -24,6 +31,7 @@ team: []
 **Стадия / маркер:** СЕРИЙНОЕ ПРОИЗВОДСТВО  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/icross
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/icross.md
 
 ## Короткая карточка
 

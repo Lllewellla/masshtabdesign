@@ -1,6 +1,7 @@
 ---
 title: "Дизайн интерьера трамвая 71-931 «Витязь»"
 slug: interier-tramvaya-vityaz
+id: interier-tramvaya-vityaz
 client: null
 client_public: false
 product: "Интерьер трамвая 71-931 «Витязь»"
@@ -10,8 +11,14 @@ mark: ""
 location: "Россия"
 year: 2024
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/interier-tramvaya-vityaz
 official_case_url: https://m-shtab.ru/interier-tramvaya-vityaz
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/interier-tramvaya-vityaz.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "цветографика"
 team:
@@ -26,6 +33,7 @@ team:
 **Продукт:** Интерьер трамвая 71-931 «Витязь»  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/interier-tramvaya-vityaz
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/interier-tramvaya-vityaz.md
 
 ## Короткая карточка
 

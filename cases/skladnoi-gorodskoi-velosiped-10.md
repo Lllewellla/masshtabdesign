@@ -1,6 +1,7 @@
 ---
 title: "Дизайн: Складной городской велосипед 1.0."
 slug: skladnoi-gorodskoi-velosiped-10
+id: skladnoi-gorodskoi-velosiped-10
 client: null
 client_public: false
 product: "Складной городской велосипед 1.0."
@@ -10,8 +11,14 @@ mark: "МАЛАЯ СЕРИЯ"
 location: "Россия"
 year: 2018
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/skladnoi-gorodskoi-velosiped-10
 official_case_url: https://m-shtab.ru/skladnoi-gorodskoi-velosiped-10
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/skladnoi-gorodskoi-velosiped-10.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "эскизный дизайн-проект"
   - "3D-моделирование"
@@ -29,6 +36,7 @@ team:
 **Стадия / маркер:** МАЛАЯ СЕРИЯ  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/skladnoi-gorodskoi-velosiped-10
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/skladnoi-gorodskoi-velosiped-10.md
 
 ## Короткая карточка
 

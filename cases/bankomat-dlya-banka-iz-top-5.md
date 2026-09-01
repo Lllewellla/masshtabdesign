@@ -1,6 +1,7 @@
 ---
 title: "Дизайн: Банкомат для банка из ТОП-5"
 slug: bankomat-dlya-banka-iz-top-5
+id: bankomat-dlya-banka-iz-top-5
 client: null
 client_public: false
 product: "Банкомат для банка из ТОП-5"
@@ -11,8 +12,14 @@ mark: ""
 location: "Россия"
 year: 2022
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/bankomat-dlya-banka-iz-top-5
 official_case_url: https://m-shtab.ru/bankomat-dlya-banka-iz-top-5
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/bankomat-dlya-banka-iz-top-5.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "эскизный дизайн-проект"
   - "3D-моделирование"
@@ -28,6 +35,7 @@ team:
 **Продукт:** Банкомат для банка из ТОП-5  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/bankomat-dlya-banka-iz-top-5
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/bankomat-dlya-banka-iz-top-5.md
 
 ## Короткая карточка
 

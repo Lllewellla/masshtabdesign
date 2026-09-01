@@ -1,6 +1,7 @@
 ---
 title: "Дизайн дрона-доставщика «Hi-Fly»"
 slug: hi-fly-drone
+id: hi-fly-drone
 client: null
 client_public: false
 product: "Малый грузовой дрон «Hi-Fly»"
@@ -10,8 +11,14 @@ mark: "СЕРИЙНОЕ ПРОИЗВОДСТВО"
 location: "Россия"
 year: 2024
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/hi-fly-drone
 official_case_url: https://m-shtab.ru/hi-fly-drone
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/hi-fly-drone.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "эскизный дизайн-проект"
   - "3D-моделирование"
@@ -27,6 +34,7 @@ team:
 **Стадия / маркер:** СЕРИЙНОЕ ПРОИЗВОДСТВО  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/hi-fly-drone
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/hi-fly-drone.md
 
 ## Короткая карточка
 

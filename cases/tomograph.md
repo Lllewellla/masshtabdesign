@@ -1,6 +1,7 @@
 ---
 title: "Дизайн: Дизайн томографа нового типа"
 slug: tomograph
+id: tomograph
 client: null
 client_public: false
 product: "Дизайн томографа нового типа"
@@ -9,8 +10,14 @@ category:
 mark: ""
 location: "Россия"
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/tomograph
 official_case_url: https://m-shtab.ru/tomograph
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/tomograph.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "эскизный дизайн-проект"
   - "3D-моделирование"
@@ -23,6 +30,7 @@ team: []
 **Продукт:** Дизайн томографа нового типа  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/tomograph
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/tomograph.md
 
 ## Короткая карточка
 

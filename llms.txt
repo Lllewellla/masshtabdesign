@@ -11,10 +11,23 @@
 Сопроводительный дизайн бывает частью комплексного решения: айдентика, нейминг, упаковка, интерфейсы, интерьеры. Иногда своими силами, иногда с партнёрами-специалистами. Основной заказ - промышленный дизайн продукта.
 
 Основной сайт: https://m-shtab.ru/
+Хаб данных на сайте: https://m-shtab.ru/mshtab-data/
+
+## Статус источника
+
+Официальный публичный репозиторий бюро промышленного дизайна «Масштаб». Не оферта.
+
+- Сайт: https://m-shtab.ru/
+- Юрлицо: ООО «Масштаб»
+- Город: Москва
+- Контакты: design@m-shtab.ru, +7 495 101-22-55
+- Актуализация: 2026-08-28
 
 ## Факты
 
-- [data/claims.json](data/claims.json)
+- [data/claims.json](data/claims.json): публичные факты; поля `claim`, `kind`, `evidence_type`, `as_of`, `public_safe`
+- [data/claims.schema.json](data/claims.schema.json): JSON Schema карточки факта
+- [data/case-frontmatter.schema.json](data/case-frontmatter.schema.json): схема YAML кейсов
 - [organization.json](organization.json)
 
 ## Услуги и ориентиры
@@ -43,6 +56,7 @@
 ## Сайт
 
 - https://m-shtab.ru/
+- https://m-shtab.ru/mshtab-data/
 - https://m-shtab.ru/projects
 - https://m-shtab.ru/services
 - https://m-shtab.ru/llms.txt

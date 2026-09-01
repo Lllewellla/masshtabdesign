@@ -1,6 +1,7 @@
 ---
 title: "Дизайн RFID-считывателя ISBC"
 slug: rfid-schityvatel-isbc
+id: rfid-schityvatel-isbc
 client: "ISBC"
 client_public: true
 product: "RFID-считыватель ISBC"
@@ -9,8 +10,14 @@ category:
 mark: "СЕРИЙНОЕ ПРОИЗВОДСТВО"
 location: "Россия"
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/rfid-schityvatel-isbc
 official_case_url: https://m-shtab.ru/rfid-schityvatel-isbc
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/rfid-schityvatel-isbc.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "промышленный дизайн"
   - "функциональная графика"
@@ -27,6 +34,7 @@ team:
 **Стадия / маркер:** СЕРИЙНОЕ ПРОИЗВОДСТВО  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/rfid-schityvatel-isbc
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/rfid-schityvatel-isbc.md
 
 ## Короткая карточка
 

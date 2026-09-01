@@ -773,6 +773,7 @@ def render_md(c: dict[str, Any]) -> str:
     fm = ["---"]
     fm.append(f"title: {yaml_str(c['title'])}")
     fm.append(f"slug: {c['slug']}")
+    fm.append(f"id: {c['slug']}")
     if c.get("client"):
         fm.append(f"client: {yaml_str(c['client'])}")
         fm.append("client_public: true")
@@ -794,8 +795,16 @@ def render_md(c: dict[str, Any]) -> str:
     if c.get("year"):
         fm.append(f"year: {c['year']}")
     fm.append('author: "Бюро промышленного дизайна «Масштаб»"')
+    fm.append('organization: "Бюро промышленного дизайна «Масштаб»"')
+    fm.append('status: "completed"')
     fm.append(f"url: {c['url']}")
     fm.append(f"official_case_url: {c['url']}")
+    fm.append(
+        f"repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/{c['slug']}.md"
+    )
+    fm.append(f'updated: "{date.today().isoformat()}"')
+    fm.append("claims: []")
+    fm.append("limitations: []")
     services = c.get("services") or []
     if services:
         fm.append("services:")
@@ -822,6 +831,9 @@ def render_md(c: dict[str, Any]) -> str:
         body.append(f"**Стадия / маркер:** {c['mark']}  ")
     body.append("**Бюро:** «Масштаб», Москва  ")
     body.append(f"**Страница на сайте:** {c['url']}")
+    body.append(
+        f"**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/{c['slug']}.md"
+    )
     body.append("")
     body.append("## Короткая карточка")
     body.append("")
@@ -882,6 +894,7 @@ def write_index(cases: list[dict[str, Any]]) -> None:
     for c in cases_sorted:
         entry = {
             "slug": c["slug"],
+            "id": c["slug"],
             "title": c["title"],
             "product": c["product"],
             "category": c.get("category") or [],
@@ -890,6 +903,12 @@ def write_index(cases: list[dict[str, Any]]) -> None:
             "services": c.get("services") or [],
             "url": c["url"],
             "official_case_url": c["url"],
+            "repo_case_url": f"https://github.com/Lllewellla/masshtabdesign/blob/main/cases/{c['slug']}.md",
+            "organization": "Бюро промышленного дизайна «Масштаб»",
+            "status": "completed",
+            "updated": date.today().isoformat(),
+            "claims": [],
+            "limitations": [],
             "markdown": f"cases/{c['slug']}.md",
         }
         if c.get("client"):

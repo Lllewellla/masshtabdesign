@@ -1,6 +1,7 @@
 ---
 title: "Дизайн аэролодки «Север»"
 slug: aerolodka-sever
+id: aerolodka-sever
 client: null
 client_public: false
 product: "Аэролодка «Север»"
@@ -10,8 +11,14 @@ mark: ""
 location: "Россия"
 year: 2024
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/aerolodka-sever
 official_case_url: https://m-shtab.ru/aerolodka-sever
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/aerolodka-sever.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "эскизный дизайн-проект"
 team:
@@ -28,6 +35,7 @@ team:
 **Продукт:** Аэролодка «Север»  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/aerolodka-sever
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/aerolodka-sever.md
 
 ## Короткая карточка
 

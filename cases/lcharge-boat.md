@@ -1,6 +1,7 @@
 ---
 title: "Дизайн: Катер для зарядки электротранспорта «L-Charge»"
 slug: lcharge-boat
+id: lcharge-boat
 client: "L-Charge"
 client_public: true
 product: "Катер для зарядки электротранспорта «L-Charge»"
@@ -9,8 +10,14 @@ category:
 mark: ""
 location: "Россия"
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/lcharge-boat
 official_case_url: https://m-shtab.ru/lcharge-boat
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/lcharge-boat.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "3D-моделирование"
   - "визуализация"
@@ -23,6 +30,7 @@ team: []
 **Продукт:** Катер для зарядки электротранспорта «L-Charge»  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/lcharge-boat
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/lcharge-boat.md
 
 ## Короткая карточка
 

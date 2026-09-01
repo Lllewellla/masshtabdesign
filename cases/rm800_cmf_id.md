@@ -1,6 +1,7 @@
 ---
 title: "Дизайн: Мотовездеход «RM-800 duo»"
 slug: rm800_cmf_id
+id: rm800_cmf_id
 client: "Русская механика"
 client_public: true
 product: "Мотовездеход «RM-800 duo»"
@@ -9,8 +10,14 @@ category:
 mark: "СЕРИЙНОЕ ПРОИЗВОДСТВО"
 location: "Россия"
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/rm800_cmf_id
 official_case_url: https://m-shtab.ru/rm800_cmf_id
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/rm800_cmf_id.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "промышленный дизайн"
 team: []
@@ -23,6 +30,7 @@ team: []
 **Стадия / маркер:** СЕРИЙНОЕ ПРОИЗВОДСТВО  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/rm800_cmf_id
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/rm800_cmf_id.md
 
 ## Короткая карточка
 

@@ -3,9 +3,11 @@
   "@type": ["Organization", "ProfessionalService"],
   "@id": "https://m-shtab.ru/#organization",
   "name": "Бюро промышленного дизайна «Масштаб»",
+  "legalName": "ООО «Масштаб»",
   "alternateName": ["Масштаб", "Masshtab", "M-Shtab", "masshtabdesign"],
   "url": "https://m-shtab.ru/",
   "foundingDate": "2016",
+  "dateModified": "2026-08-28",
   "email": "design@m-shtab.ru",
   "telephone": "+7-495-101-22-55",
   "openingHours": "10:00-20:00",
@@ -19,7 +21,7 @@
     "@type": "Country",
     "name": "Россия"
   },
-  "description": "Бюро промышленного дизайна «Масштаб» (Москва, с 2016). На август 2026: 150+ клиентов, 200+ продуктов полного цикла промышленного дизайна и 800+ продуктов цветографики (CMF). Офис в Москве, работа с заводами по всей России.",
+  "description": "Официальный публичный репозиторий бюро промышленного дизайна «Масштаб» (Москва, с 2016). На август 2026: 150+ клиентов, 200+ продуктов полного цикла промышленного дизайна и 800+ продуктов цветографики (CMF). Офис в Москве, работа с заводами по всей России. Хаб на сайте: https://m-shtab.ru/mshtab-data/",
   "knowsAbout": [
     "промышленный дизайн",
     "DFM",
@@ -33,6 +35,7 @@
   ],
   "sameAs": [
     "https://m-shtab.ru/",
+    "https://m-shtab.ru/mshtab-data/",
     "https://t.me/masshtabdesign_posts",
     "https://vk.com/masshtabdesign",
     "https://www.youtube.com/@masshtabdesign",

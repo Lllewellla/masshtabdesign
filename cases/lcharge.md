@@ -1,6 +1,7 @@
 ---
 title: "Дизайн электрозарядных станций L-Charge"
 slug: lcharge
+id: lcharge
 client: "L-Charge"
 client_public: true
 product: "Электрозарядные станции «L-Charge»"
@@ -9,8 +10,14 @@ category:
 mark: "МАЛАЯ СЕРИЯ"
 location: "Россия"
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/lcharge
 official_case_url: https://m-shtab.ru/lcharge
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/lcharge.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "3D-моделирование"
   - "визуализация"
@@ -24,6 +31,7 @@ team: []
 **Стадия / маркер:** МАЛАЯ СЕРИЯ  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/lcharge
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/lcharge.md
 
 ## Короткая карточка
 

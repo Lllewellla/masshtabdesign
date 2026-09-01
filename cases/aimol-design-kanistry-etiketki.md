@@ -1,6 +1,7 @@
 ---
 title: "Дизайн этикеток канистр Aimol × ФК Ростов"
 slug: aimol-design-kanistry-etiketki
+id: aimol-design-kanistry-etiketki
 client: "Aimol"
 client_public: true
 product: "Этикетки канистр Aimol x ФК Ростов"
@@ -11,8 +12,14 @@ mark: "СЕРИЙНОЕ ПРОИЗВОДСТВО"
 location: "Россия"
 year: 2024
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/aimol-design-kanistry-etiketki
 official_case_url: https://m-shtab.ru/aimol-design-kanistry-etiketki
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/aimol-design-kanistry-etiketki.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "Креативная концепция"
   - "дизайн этикеток"
@@ -30,6 +37,7 @@ team:
 **Стадия / маркер:** СЕРИЙНОЕ ПРОИЗВОДСТВО  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/aimol-design-kanistry-etiketki
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/aimol-design-kanistry-etiketki.md
 
 ## Короткая карточка
 

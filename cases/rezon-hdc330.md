@@ -1,6 +1,7 @@
 ---
 title: "Дизайн: Ленточно-отрезной станок «REZON»"
 slug: rezon-hdc330
+id: rezon-hdc330
 client: "Росмарк-Сталь"
 client_public: true
 product: "Ленточно-отрезной станок «REZON»"
@@ -10,8 +11,14 @@ category:
 mark: "СЕРИЙНОЕ ПРОИЗВОДСТВО"
 location: "Россия"
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/rezon-hdc330
 official_case_url: https://m-shtab.ru/rezon-hdc330
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/rezon-hdc330.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "3D-моделирование"
 team: []
@@ -24,6 +31,7 @@ team: []
 **Стадия / маркер:** СЕРИЙНОЕ ПРОИЗВОДСТВО  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/rezon-hdc330
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/rezon-hdc330.md
 
 ## Короткая карточка
 

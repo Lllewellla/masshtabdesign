@@ -1,6 +1,7 @@
 ---
 title: "Дизайн: Снегоход «Тикси 500 4Т»"
 slug: snegohod-tiksi-500-4t
+id: snegohod-tiksi-500-4t
 client: "Русская механика"
 client_public: true
 product: "Снегоход «Тикси 500 4Т»"
@@ -10,8 +11,14 @@ mark: "СЕРИЙНОЕ ПРОИЗВОДСТВО"
 location: "Россия"
 year: 2020
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/snegohod-tiksi-500-4t
 official_case_url: https://m-shtab.ru/snegohod-tiksi-500-4t
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/snegohod-tiksi-500-4t.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "цветографика"
 team:
@@ -27,6 +34,7 @@ team:
 **Стадия / маркер:** СЕРИЙНОЕ ПРОИЗВОДСТВО  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/snegohod-tiksi-500-4t
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/snegohod-tiksi-500-4t.md
 
 ## Короткая карточка
 

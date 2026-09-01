@@ -1,6 +1,7 @@
 ---
 title: "Дизайн-код экстерьера модульных домов Shanti"
 slug: dizain-kod-shanti
+id: dizain-kod-shanti
 client: null
 client_public: false
 product: "Модульные дома «Shanti»"
@@ -10,8 +11,14 @@ mark: ""
 location: "Россия"
 year: 2025
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/dizain-kod-shanti
 official_case_url: https://m-shtab.ru/dizain-kod-shanti
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/dizain-kod-shanti.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "Аналитика"
   - "концепция идентификации"
@@ -28,6 +35,7 @@ team:
 **Продукт:** Модульные дома «Shanti»  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/dizain-kod-shanti
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/dizain-kod-shanti.md
 
 ## Короткая карточка
 

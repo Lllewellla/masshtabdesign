@@ -1185,7 +1185,7 @@ def parse_fm(text: str) -> tuple[dict, str]:
     body = parts[2].lstrip("\n")
     meta: dict = {}
     # minimal parse for fields we need
-    for key in ("title", "slug", "client", "product", "mark", "location", "url", "official_case_url"):
+    for key in ("title", "slug", "client", "product", "mark", "location", "url", "official_case_url", "repo_case_url"):
         m = re.search(rf'^{key}:\s*"?(.*?)"?\s*$', fm_raw, re.M)
         if m:
             meta[key] = m.group(1).strip().strip('"')
@@ -1265,6 +1265,11 @@ def render(meta: dict, copy: dict) -> str:
     fm.append('author: "Бюро промышленного дизайна «Масштаб»"')
     fm.append(f"url: {url}")
     fm.append(f"official_case_url: {meta.get('official_case_url') or url}")
+    slug = meta.get("slug") or ""
+    repo_case_url = meta.get("repo_case_url") or (
+        f"https://github.com/Lllewellla/masshtabdesign/blob/main/cases/{slug}.md"
+    )
+    fm.append(f"repo_case_url: {repo_case_url}")
     if services:
         fm.append("services:")
         fm.append(yaml_list(services))
@@ -1293,6 +1298,7 @@ def render(meta: dict, copy: dict) -> str:
         [
             "**Бюро:** «Масштаб», Москва  ",
             f"**Страница на сайте:** {url}",
+            f"**Исходные данные в репозитории:** {repo_case_url}",
             "",
             "## Короткая карточка",
             "",

@@ -1,6 +1,7 @@
 ---
 title: "Дизайн: Многофункциональный вездеход «Термит»"
 slug: mnogofunktsionalnii-vezdehod-termit
+id: mnogofunktsionalnii-vezdehod-termit
 client: "Русская механика"
 client_public: true
 product: "Многофункциональный вездеход «Термит»"
@@ -10,8 +11,14 @@ mark: "СЕРИЙНОЕ ПРОИЗВОДСТВО"
 location: "Россия"
 year: 2019
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/mnogofunktsionalnii-vezdehod-termit
 official_case_url: https://m-shtab.ru/mnogofunktsionalnii-vezdehod-termit
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/mnogofunktsionalnii-vezdehod-termit.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "промышленный дизайн"
   - "3D-моделирование"
@@ -30,6 +37,7 @@ team:
 **Стадия / маркер:** СЕРИЙНОЕ ПРОИЗВОДСТВО  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/mnogofunktsionalnii-vezdehod-termit
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/mnogofunktsionalnii-vezdehod-termit.md
 
 ## Короткая карточка
 

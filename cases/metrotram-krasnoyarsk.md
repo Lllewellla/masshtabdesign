@@ -1,6 +1,7 @@
 ---
 title: "Дизайн этикеток канистр Aimol x ФК Ростов"
 slug: metrotram-krasnoyarsk
+id: metrotram-krasnoyarsk
 client: null
 client_public: false
 product: "Метротрам для Красноярска"
@@ -10,8 +11,14 @@ mark: ""
 location: "Россия"
 year: 2024
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/metrotram-krasnoyarsk
 official_case_url: https://m-shtab.ru/metrotram-krasnoyarsk
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/metrotram-krasnoyarsk.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "цветографика"
 team:
@@ -25,6 +32,7 @@ team:
 **Продукт:** Метротрам для Красноярска  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/metrotram-krasnoyarsk
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/metrotram-krasnoyarsk.md
 
 ## Короткая карточка
 

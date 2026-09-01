@@ -1,6 +1,7 @@
 ---
 title: "Дизайн: ТДО для инструментов \\\"Торнадо\\"
 slug: tdo-dlya-instrumentov-tornado
+id: tdo-dlya-instrumentov-tornado
 client: null
 client_public: false
 product: "ТДО для инструментов \\\"Торнадо\\"
@@ -10,8 +11,14 @@ mark: ""
 location: "Россия"
 year: 2022
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/tdo-dlya-instrumentov-tornado
 official_case_url: https://m-shtab.ru/tdo-dlya-instrumentov-tornado
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/tdo-dlya-instrumentov-tornado.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "эскизный дизайн-проект"
 team:
@@ -25,6 +32,7 @@ team:
 **Продукт:** ТДО для инструментов \"Торнадо\  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/tdo-dlya-instrumentov-tornado
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/tdo-dlya-instrumentov-tornado.md
 
 ## Короткая карточка
 

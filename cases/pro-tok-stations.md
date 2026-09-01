@@ -1,6 +1,7 @@
 ---
 title: "Дизайн трансформаторных подстанций «Про-ток»"
 slug: pro-tok-stations
+id: pro-tok-stations
 client: "Про-ток / Pro-Tok"
 client_public: true
 product: "Трансформаторные подстанции «Про-ток»"
@@ -11,8 +12,14 @@ mark: ""
 location: "Россия"
 year: 2025
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/pro-tok-stations
 official_case_url: https://m-shtab.ru/pro-tok-stations
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/pro-tok-stations.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "эскизный дизайн-проект"
 team:
@@ -27,6 +34,7 @@ team:
 **Продукт:** Трансформаторные подстанции «Про-ток»  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/pro-tok-stations
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/pro-tok-stations.md
 
 ## Короткая карточка
 

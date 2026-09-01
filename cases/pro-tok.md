@@ -1,6 +1,7 @@
 ---
 title: "Дизайн-ДНК «Про-ток»: фирменный стиль фасадов"
 slug: pro-tok
+id: pro-tok
 client: "Про-ток / Pro-Tok"
 client_public: true
 product: "Дизайн-ДНК «Про-ток»"
@@ -9,8 +10,14 @@ category:
 mark: "СЕРИЙНОЕ ПРОИЗВОДСТВО"
 location: "Россия"
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/pro-tok
 official_case_url: https://m-shtab.ru/pro-tok
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/pro-tok.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "промышленный дизайн"
   - "дизайн-ДНК"
@@ -28,6 +35,7 @@ team:
 **Стадия / маркер:** СЕРИЙНОЕ ПРОИЗВОДСТВО  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/pro-tok
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/pro-tok.md
 
 ## Короткая карточка
 

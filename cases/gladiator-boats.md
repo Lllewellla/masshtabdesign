@@ -1,6 +1,7 @@
 ---
 title: "Дизайн: Лодки с надувным дном «Gladiator»"
 slug: gladiator-boats
+id: gladiator-boats
 client: "Gladiator"
 client_public: true
 product: "Лодки с надувным дном «Gladiator»"
@@ -9,8 +10,14 @@ category:
 mark: "СЕРИЙНОЕ ПРОИЗВОДСТВО"
 location: "Россия"
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/gladiator-boats
 official_case_url: https://m-shtab.ru/gladiator-boats
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/gladiator-boats.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "креативная концепция"
   - "цветографика"
@@ -25,6 +32,7 @@ team: []
 **Стадия / маркер:** СЕРИЙНОЕ ПРОИЗВОДСТВО  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/gladiator-boats
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/gladiator-boats.md
 
 ## Короткая карточка
 

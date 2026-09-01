@@ -1,6 +1,7 @@
 ---
 title: "Дизайн: Аппарат для терапии Infopathy IC Pad 3"
 slug: infopathy
+id: infopathy
 client: "Infopathy"
 client_public: true
 product: "Аппарат для терапии Infopathy IC Pad 3"
@@ -10,8 +11,14 @@ category:
 mark: "СЕРИЙНОЕ ПРОИЗВОДСТВО"
 location: "Россия"
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/infopathy
 official_case_url: https://m-shtab.ru/infopathy
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/infopathy.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "промышленный дизайн"
   - "3D-моделирование"
@@ -25,6 +32,7 @@ team: []
 **Стадия / маркер:** СЕРИЙНОЕ ПРОИЗВОДСТВО  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/infopathy
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/infopathy.md
 
 ## Короткая карточка
 

@@ -1,0 +1,72 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://m-shtab.ru/schemas/case-frontmatter.json",
+  "title": "Masshtab case markdown front matter",
+  "type": "object",
+  "required": [
+    "id",
+    "title",
+    "slug",
+    "organization",
+    "url",
+    "official_case_url",
+    "repo_case_url",
+    "status",
+    "updated"
+  ],
+  "properties": {
+    "id": { "type": "string", "description": "Usually equals slug" },
+    "title": { "type": "string" },
+    "slug": { "type": "string" },
+    "organization": { "type": "string" },
+    "client": { "type": ["string", "null"] },
+    "client_public": { "type": "boolean" },
+    "product": { "type": "string" },
+    "category": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "mark": { "type": ["string", "null"] },
+    "location": { "type": "string" },
+    "year": { "type": ["integer", "string"] },
+    "author": { "type": "string" },
+    "url": { "type": "string", "format": "uri" },
+    "official_case_url": { "type": "string", "format": "uri" },
+    "repo_case_url": { "type": "string", "format": "uri" },
+    "status": {
+      "type": "string",
+      "enum": ["completed", "in_progress", "concept", "nda"]
+    },
+    "updated": { "type": "string" },
+    "services": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "team": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "claims": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Optional claim ids from data/claims.json or case-local ids"
+    },
+    "limitations": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "industry": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "product_type": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "project_stage": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  },
+  "additionalProperties": true
+}

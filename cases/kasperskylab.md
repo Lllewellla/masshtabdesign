@@ -1,6 +1,7 @@
 ---
 title: "Дизайн: Выставочный стенд для «Kaspersky Lab»"
 slug: kasperskylab
+id: kasperskylab
 client: "Kaspersky Lab"
 client_public: true
 product: "Выставочный стенд для «Kaspersky Lab»"
@@ -9,8 +10,14 @@ category:
 mark: "МАЛАЯ СЕРИЯ"
 location: "Россия"
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/kasperskylab
 official_case_url: https://m-shtab.ru/kasperskylab
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/kasperskylab.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "промышленный дизайн"
   - "3D-моделирование"
@@ -24,6 +31,7 @@ team: []
 **Стадия / маркер:** МАЛАЯ СЕРИЯ  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/kasperskylab
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/kasperskylab.md
 
 ## Короткая карточка
 

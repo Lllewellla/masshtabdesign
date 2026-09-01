@@ -1,6 +1,7 @@
 ---
 title: "Дизайн: Квадроциклы RM 650-2 и RM 500-2"
 slug: kvadrotsikli-rm-650-2-i-rm-500-2
+id: kvadrotsikli-rm-650-2-i-rm-500-2
 client: "Русская механика"
 client_public: true
 product: "Квадроциклы RM 650-2 и RM 500-2"
@@ -11,8 +12,14 @@ mark: "СЕРИЙНОЕ ПРОИЗВОДСТВО"
 location: "Россия"
 year: 2018
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/kvadrotsikli-rm-650-2-i-rm-500-2
 official_case_url: https://m-shtab.ru/kvadrotsikli-rm-650-2-i-rm-500-2
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/kvadrotsikli-rm-650-2-i-rm-500-2.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "промышленный дизайн"
 team:
@@ -30,6 +37,7 @@ team:
 **Стадия / маркер:** СЕРИЙНОЕ ПРОИЗВОДСТВО  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/kvadrotsikli-rm-650-2-i-rm-500-2
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/kvadrotsikli-rm-650-2-i-rm-500-2.md
 
 ## Короткая карточка
 

@@ -1,6 +1,7 @@
 ---
 title: "Дизайн UV-лампы для мастеров маникюра"
 slug: uv-lampa
+id: uv-lampa
 client: null
 client_public: false
 product: "UV-лампа для мастеров маникюра"
@@ -10,8 +11,14 @@ mark: "СЕРИЙНОЕ ПРОИЗВОДСТВО"
 location: "Россия"
 year: 2023
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/uv-lampa
 official_case_url: https://m-shtab.ru/uv-lampa
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/uv-lampa.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "промышленный дизайн"
   - "3D-моделирование"
@@ -32,6 +39,7 @@ team:
 **Стадия / маркер:** СЕРИЙНОЕ ПРОИЗВОДСТВО  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/uv-lampa
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/uv-lampa.md
 
 ## Короткая карточка
 

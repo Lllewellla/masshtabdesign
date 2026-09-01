@@ -1,6 +1,7 @@
 ---
 title: "Дизайн: Дизайн фильтр-кувшина «БАРЬЕР РУС»"
 slug: barrier
+id: barrier
 client: "БАРЬЕР РУС"
 client_public: true
 product: "Дизайн фильтр-кувшина «БАРЬЕР РУС»"
@@ -9,8 +10,14 @@ category:
 mark: ""
 location: "Россия"
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/barrier
 official_case_url: https://m-shtab.ru/barrier
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/barrier.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "дизайн-исследование"
   - "промышленный дизайн"
@@ -23,6 +30,7 @@ team: []
 **Продукт:** Дизайн фильтр-кувшина «БАРЬЕР РУС»  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/barrier
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/barrier.md
 
 ## Короткая карточка
 

@@ -1,6 +1,7 @@
 ---
 title: "Дизайн-ДНК станков «Енисей»: фирмстиль линейки"
 slug: stanki-enisej-dizajn-dnk
+id: stanki-enisej-dizajn-dnk
 client: "Енисей"
 client_public: true
 product: "Станки «Енисей»: дизайн-ДНК"
@@ -11,8 +12,14 @@ mark: ""
 location: "Россия"
 year: 2025
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/stanki-enisej-dizajn-dnk
 official_case_url: https://m-shtab.ru/stanki-enisej-dizajn-dnk
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/stanki-enisej-dizajn-dnk.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "эскизный дизайн-проект"
 team:
@@ -27,6 +34,7 @@ team:
 **Продукт:** Станки «Енисей»: дизайн-ДНК  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/stanki-enisej-dizajn-dnk
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/stanki-enisej-dizajn-dnk.md
 
 ## Короткая карточка
 

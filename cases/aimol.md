@@ -1,6 +1,7 @@
 ---
 title: "Дизайн канистр Aimol для серийного выпуска"
 slug: aimol
+id: aimol
 client: "Aimol"
 client_public: true
 product: "Канистры Aimol"
@@ -10,8 +11,14 @@ category:
 mark: "СЕРИЙНОЕ ПРОИЗВОДСТВО"
 location: "Россия"
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/aimol
 official_case_url: https://m-shtab.ru/aimol
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/aimol.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "промышленный дизайн"
   - "3D-моделирование"
@@ -25,6 +32,7 @@ team: []
 **Стадия / маркер:** СЕРИЙНОЕ ПРОИЗВОДСТВО  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/aimol
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/aimol.md
 
 ## Короткая карточка
 

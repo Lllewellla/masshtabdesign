@@ -1,6 +1,7 @@
 ---
 title: "Дизайн: Концепт закрытого снегохода «Newtone Snowmobile»"
 slug: kontsept-zakritogo-snegohoda-newtone-sno
+id: kontsept-zakritogo-snegohoda-newtone-sno
 client: null
 client_public: false
 product: "Концепт закрытого снегохода «Newtone Snowmobile»"
@@ -10,8 +11,14 @@ mark: ""
 location: "Россия"
 year: 2019
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/kontsept-zakritogo-snegohoda-newtone-sno
 official_case_url: https://m-shtab.ru/kontsept-zakritogo-snegohoda-newtone-sno
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/kontsept-zakritogo-snegohoda-newtone-sno.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "эскизный дизайн-проект"
   - "концепт-дизайн"
@@ -29,6 +36,7 @@ team:
 **Продукт:** Концепт закрытого снегохода «Newtone Snowmobile»  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/kontsept-zakritogo-snegohoda-newtone-sno
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/kontsept-zakritogo-snegohoda-newtone-sno.md
 
 ## Короткая карточка
 

@@ -1,6 +1,7 @@
 ---
 title: "Дизайн плоскошлифовального станка с ЧПУ «ЛСП»"
 slug: ploskoshlifovalnyj-stanok-lsp
+id: ploskoshlifovalnyj-stanok-lsp
 client: null
 client_public: false
 product: "Плоскошлифовальный станок с ЧПУ «ЛСП»"
@@ -10,8 +11,14 @@ mark: "СЕРИЙНОЕ ПРОИЗВОДСТВО"
 location: "Россия"
 year: 2022
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/ploskoshlifovalnyj-stanok-lsp
 official_case_url: https://m-shtab.ru/ploskoshlifovalnyj-stanok-lsp
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/ploskoshlifovalnyj-stanok-lsp.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "промышленный дизайн"
   - "3D-моделирование"
@@ -28,6 +35,7 @@ team:
 **Стадия / маркер:** СЕРИЙНОЕ ПРОИЗВОДСТВО  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/ploskoshlifovalnyj-stanok-lsp
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/ploskoshlifovalnyj-stanok-lsp.md
 
 ## Короткая карточка
 

@@ -1,6 +1,7 @@
 ---
 title: "Дизайн: Интерьер аэротакси «Hi-Fly»"
 slug: interer-aerotaksi-hi-fly
+id: interer-aerotaksi-hi-fly
 client: null
 client_public: false
 product: "Интерьер аэротакси «Hi-Fly»"
@@ -10,8 +11,14 @@ mark: "МАЛАЯ СЕРИЯ"
 location: "Россия"
 year: 2024
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/interer-aerotaksi-hi-fly
 official_case_url: https://m-shtab.ru/interer-aerotaksi-hi-fly
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/interer-aerotaksi-hi-fly.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "эскизный дизайн-проект"
   - "3D-моделирование"
@@ -26,6 +33,7 @@ team: []
 **Стадия / маркер:** МАЛАЯ СЕРИЯ  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/interer-aerotaksi-hi-fly
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/interer-aerotaksi-hi-fly.md
 
 ## Короткая карточка
 

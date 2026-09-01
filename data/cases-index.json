@@ -31,7 +31,14 @@
       "official_case_url": "https://m-shtab.ru/adapttoebike",
       "markdown": "cases/adapttoebike.md",
       "client": null,
-      "client_public": false
+      "client_public": false,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/adapttoebike.md",
+      "id": "adapttoebike",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "aerolodka-sever",
@@ -50,7 +57,14 @@
       "markdown": "cases/aerolodka-sever.md",
       "client": null,
       "client_public": false,
-      "year": 2024
+      "year": 2024,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/aerolodka-sever.md",
+      "id": "aerolodka-sever",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "aimol",
@@ -69,7 +83,14 @@
       "url": "https://m-shtab.ru/aimol",
       "official_case_url": "https://m-shtab.ru/aimol",
       "markdown": "cases/aimol.md",
-      "client": "Aimol"
+      "client": "Aimol",
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/aimol.md",
+      "id": "aimol",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "aimol-design-kanistry-etiketki",
@@ -90,7 +111,14 @@
       "official_case_url": "https://m-shtab.ru/aimol-design-kanistry-etiketki",
       "markdown": "cases/aimol-design-kanistry-etiketki.md",
       "client": "Aimol",
-      "year": 2024
+      "year": 2024,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/aimol-design-kanistry-etiketki.md",
+      "id": "aimol-design-kanistry-etiketki",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "apparat-promishlennoi-sortirovki-eksli",
@@ -109,7 +137,14 @@
       "official_case_url": "https://m-shtab.ru/apparat-promishlennoi-sortirovki-eksli",
       "markdown": "cases/apparat-promishlennoi-sortirovki-eksli.md",
       "client": "EKSLi",
-      "year": 2024
+      "year": 2024,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/apparat-promishlennoi-sortirovki-eksli.md",
+      "id": "apparat-promishlennoi-sortirovki-eksli",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "bankomat-dlya-banka-iz-top-5",
@@ -130,7 +165,14 @@
       "markdown": "cases/bankomat-dlya-banka-iz-top-5.md",
       "client": null,
       "client_public": false,
-      "year": 2022
+      "year": 2022,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/bankomat-dlya-banka-iz-top-5.md",
+      "id": "bankomat-dlya-banka-iz-top-5",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "barrier",
@@ -149,7 +191,14 @@
       "url": "https://m-shtab.ru/barrier",
       "official_case_url": "https://m-shtab.ru/barrier",
       "markdown": "cases/barrier.md",
-      "client": "БАРЬЕР РУС"
+      "client": "БАРЬЕР РУС",
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/barrier.md",
+      "id": "barrier",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "carbogatto_1",
@@ -168,7 +217,14 @@
       "url": "https://m-shtab.ru/carbogatto_1",
       "official_case_url": "https://m-shtab.ru/carbogatto_1",
       "markdown": "cases/carbogatto_1.md",
-      "client": "Carbogatto"
+      "client": "Carbogatto",
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/carbogatto_1.md",
+      "id": "carbogatto_1",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "dizain-kod-shanti",
@@ -190,7 +246,14 @@
       "markdown": "cases/dizain-kod-shanti.md",
       "client": null,
       "client_public": false,
-      "year": 2025
+      "year": 2025,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/dizain-kod-shanti.md",
+      "id": "dizain-kod-shanti",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "euroliftmash",
@@ -208,7 +271,14 @@
       "url": "https://m-shtab.ru/euroliftmash",
       "official_case_url": "https://m-shtab.ru/euroliftmash",
       "markdown": "cases/euroliftmash.md",
-      "client": "Евролифтмаш"
+      "client": "Евролифтмаш",
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/euroliftmash.md",
+      "id": "euroliftmash",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "gaz-safety-car",
@@ -227,7 +297,14 @@
       "markdown": "cases/gaz-safety-car.md",
       "client": null,
       "client_public": false,
-      "year": 2021
+      "year": 2021,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/gaz-safety-car.md",
+      "id": "gaz-safety-car",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "gladiator",
@@ -246,7 +323,14 @@
       "url": "https://m-shtab.ru/gladiator",
       "official_case_url": "https://m-shtab.ru/gladiator",
       "markdown": "cases/gladiator.md",
-      "client": "Gladiator"
+      "client": "Gladiator",
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/gladiator.md",
+      "id": "gladiator",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "gladiator-boats",
@@ -263,7 +347,14 @@
       "url": "https://m-shtab.ru/gladiator-boats",
       "official_case_url": "https://m-shtab.ru/gladiator-boats",
       "markdown": "cases/gladiator-boats.md",
-      "client": "Gladiator"
+      "client": "Gladiator",
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/gladiator-boats.md",
+      "id": "gladiator-boats",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "hausbot",
@@ -283,7 +374,14 @@
       "markdown": "cases/hausbot.md",
       "client": null,
       "client_public": false,
-      "year": 2019
+      "year": 2019,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/hausbot.md",
+      "id": "hausbot",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "hi-fly-drone",
@@ -303,7 +401,14 @@
       "markdown": "cases/hi-fly-drone.md",
       "client": null,
       "client_public": false,
-      "year": 2024
+      "year": 2024,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/hi-fly-drone.md",
+      "id": "hi-fly-drone",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "icross",
@@ -322,7 +427,14 @@
       "official_case_url": "https://m-shtab.ru/icross",
       "markdown": "cases/icross.md",
       "client": null,
-      "client_public": false
+      "client_public": false,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/icross.md",
+      "id": "icross",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "infopathy",
@@ -341,7 +453,14 @@
       "url": "https://m-shtab.ru/infopathy",
       "official_case_url": "https://m-shtab.ru/infopathy",
       "markdown": "cases/infopathy.md",
-      "client": "Infopathy"
+      "client": "Infopathy",
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/infopathy.md",
+      "id": "infopathy",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "interer-aerotaksi-hi-fly",
@@ -362,7 +481,14 @@
       "markdown": "cases/interer-aerotaksi-hi-fly.md",
       "client": null,
       "client_public": false,
-      "year": 2024
+      "year": 2024,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/interer-aerotaksi-hi-fly.md",
+      "id": "interer-aerotaksi-hi-fly",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "interier-tramvaya-vityaz",
@@ -381,7 +507,14 @@
       "markdown": "cases/interier-tramvaya-vityaz.md",
       "client": null,
       "client_public": false,
-      "year": 2024
+      "year": 2024,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/interier-tramvaya-vityaz.md",
+      "id": "interier-tramvaya-vityaz",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "kasperskylab",
@@ -399,7 +532,14 @@
       "url": "https://m-shtab.ru/kasperskylab",
       "official_case_url": "https://m-shtab.ru/kasperskylab",
       "markdown": "cases/kasperskylab.md",
-      "client": "Kaspersky Lab"
+      "client": "Kaspersky Lab",
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/kasperskylab.md",
+      "id": "kasperskylab",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "kayak-xyak-kompanii-third-pin",
@@ -418,7 +558,14 @@
       "official_case_url": "https://m-shtab.ru/kayak-xyak-kompanii-third-pin",
       "markdown": "cases/kayak-xyak-kompanii-third-pin.md",
       "client": "THIRD PIN",
-      "year": 2020
+      "year": 2020,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/kayak-xyak-kompanii-third-pin.md",
+      "id": "kayak-xyak-kompanii-third-pin",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "kitfort",
@@ -437,7 +584,14 @@
       "url": "https://m-shtab.ru/kitfort",
       "official_case_url": "https://m-shtab.ru/kitfort",
       "markdown": "cases/kitfort.md",
-      "client": "Kitfort"
+      "client": "Kitfort",
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/kitfort.md",
+      "id": "kitfort",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "kollektsiya-mebeli-iz-karbona",
@@ -457,7 +611,14 @@
       "markdown": "cases/kollektsiya-mebeli-iz-karbona.md",
       "client": null,
       "client_public": false,
-      "year": 2019
+      "year": 2019,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/kollektsiya-mebeli-iz-karbona.md",
+      "id": "kollektsiya-mebeli-iz-karbona",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "kontsept-zakritogo-snegohoda-newtone-sno",
@@ -477,7 +638,14 @@
       "markdown": "cases/kontsept-zakritogo-snegohoda-newtone-sno.md",
       "client": null,
       "client_public": false,
-      "year": 2019
+      "year": 2019,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/kontsept-zakritogo-snegohoda-newtone-sno.md",
+      "id": "kontsept-zakritogo-snegohoda-newtone-sno",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "kvadrotsikli-rm-650-2-i-rm-500-2",
@@ -496,7 +664,14 @@
       "official_case_url": "https://m-shtab.ru/kvadrotsikli-rm-650-2-i-rm-500-2",
       "markdown": "cases/kvadrotsikli-rm-650-2-i-rm-500-2.md",
       "client": "Русская механика",
-      "year": 2018
+      "year": 2018,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/kvadrotsikli-rm-650-2-i-rm-500-2.md",
+      "id": "kvadrotsikli-rm-650-2-i-rm-500-2",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "lcharge",
@@ -514,7 +689,14 @@
       "url": "https://m-shtab.ru/lcharge",
       "official_case_url": "https://m-shtab.ru/lcharge",
       "markdown": "cases/lcharge.md",
-      "client": "L-Charge"
+      "client": "L-Charge",
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/lcharge.md",
+      "id": "lcharge",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "lcharge-boat",
@@ -532,7 +714,14 @@
       "url": "https://m-shtab.ru/lcharge-boat",
       "official_case_url": "https://m-shtab.ru/lcharge-boat",
       "markdown": "cases/lcharge-boat.md",
-      "client": "L-Charge"
+      "client": "L-Charge",
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/lcharge-boat.md",
+      "id": "lcharge-boat",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "lcharge-mobile",
@@ -550,7 +739,14 @@
       "url": "https://m-shtab.ru/lcharge-mobile",
       "official_case_url": "https://m-shtab.ru/lcharge-mobile",
       "markdown": "cases/lcharge-mobile.md",
-      "client": "L-Charge"
+      "client": "L-Charge",
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/lcharge-mobile.md",
+      "id": "lcharge-mobile",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "lider",
@@ -569,7 +765,14 @@
       "markdown": "cases/lider.md",
       "client": null,
       "client_public": false,
-      "year": 2025
+      "year": 2025,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/lider.md",
+      "id": "lider",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "livrei-samoleta-lms-901",
@@ -589,7 +792,14 @@
       "markdown": "cases/livrei-samoleta-lms-901.md",
       "client": null,
       "client_public": false,
-      "year": 2021
+      "year": 2021,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/livrei-samoleta-lms-901.md",
+      "id": "livrei-samoleta-lms-901",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "loader",
@@ -608,7 +818,14 @@
       "official_case_url": "https://m-shtab.ru/loader",
       "markdown": "cases/loader.md",
       "client": null,
-      "client_public": false
+      "client_public": false,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/loader.md",
+      "id": "loader",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "logistic-robot",
@@ -627,7 +844,14 @@
       "url": "https://m-shtab.ru/logistic-robot",
       "official_case_url": "https://m-shtab.ru/logistic-robot",
       "markdown": "cases/logistic-robot.md",
-      "client": "Mobile Industrial Robots"
+      "client": "Mobile Industrial Robots",
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/logistic-robot.md",
+      "id": "logistic-robot",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "longboard",
@@ -646,7 +870,14 @@
       "official_case_url": "https://m-shtab.ru/longboard",
       "markdown": "cases/longboard.md",
       "client": null,
-      "client_public": false
+      "client_public": false,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/longboard.md",
+      "id": "longboard",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "macrolinza",
@@ -666,7 +897,14 @@
       "markdown": "cases/macrolinza.md",
       "client": null,
       "client_public": false,
-      "year": 2025
+      "year": 2025,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/macrolinza.md",
+      "id": "macrolinza",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "medtable",
@@ -686,7 +924,14 @@
       "official_case_url": "https://m-shtab.ru/medtable",
       "markdown": "cases/medtable.md",
       "client": null,
-      "client_public": false
+      "client_public": false,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/medtable.md",
+      "id": "medtable",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "metrotram-krasnoyarsk",
@@ -705,7 +950,14 @@
       "markdown": "cases/metrotram-krasnoyarsk.md",
       "client": null,
       "client_public": false,
-      "year": 2024
+      "year": 2024,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/metrotram-krasnoyarsk.md",
+      "id": "metrotram-krasnoyarsk",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "mnogofunktsionalnii-vezdehod-termit",
@@ -724,7 +976,14 @@
       "official_case_url": "https://m-shtab.ru/mnogofunktsionalnii-vezdehod-termit",
       "markdown": "cases/mnogofunktsionalnii-vezdehod-termit.md",
       "client": "Русская механика",
-      "year": 2019
+      "year": 2019,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/mnogofunktsionalnii-vezdehod-termit.md",
+      "id": "mnogofunktsionalnii-vezdehod-termit",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "ploskoshlifovalnyj-stanok-lsp",
@@ -744,7 +1003,14 @@
       "markdown": "cases/ploskoshlifovalnyj-stanok-lsp.md",
       "client": null,
       "client_public": false,
-      "year": 2022
+      "year": 2022,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/ploskoshlifovalnyj-stanok-lsp.md",
+      "id": "ploskoshlifovalnyj-stanok-lsp",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "pogruzchik-grinteh-p300",
@@ -764,7 +1030,14 @@
       "markdown": "cases/pogruzchik-grinteh-p300.md",
       "client": null,
       "client_public": false,
-      "year": 2025
+      "year": 2025,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/pogruzchik-grinteh-p300.md",
+      "id": "pogruzchik-grinteh-p300",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "pogruzchik-grosler-gi-1300",
@@ -785,7 +1058,14 @@
       "url": "https://m-shtab.ru/pogruzchik-grosler-gi-1300",
       "official_case_url": "https://m-shtab.ru/pogruzchik-grosler-gi-1300",
       "markdown": "cases/pogruzchik-grosler-gi-1300.md",
-      "client": "GROSLER"
+      "client": "GROSLER",
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/pogruzchik-grosler-gi-1300.md",
+      "id": "pogruzchik-grosler-gi-1300",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "pro-tok",
@@ -803,7 +1083,14 @@
       "url": "https://m-shtab.ru/pro-tok",
       "official_case_url": "https://m-shtab.ru/pro-tok",
       "markdown": "cases/pro-tok.md",
-      "client": "Про-ток / Pro-Tok"
+      "client": "Про-ток / Pro-Tok",
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/pro-tok.md",
+      "id": "pro-tok",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "pro-tok-stations",
@@ -822,7 +1109,14 @@
       "official_case_url": "https://m-shtab.ru/pro-tok-stations",
       "markdown": "cases/pro-tok-stations.md",
       "client": "Про-ток / Pro-Tok",
-      "year": 2025
+      "year": 2025,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/pro-tok-stations.md",
+      "id": "pro-tok-stations",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "rezon-hdc330",
@@ -840,7 +1134,14 @@
       "url": "https://m-shtab.ru/rezon-hdc330",
       "official_case_url": "https://m-shtab.ru/rezon-hdc330",
       "markdown": "cases/rezon-hdc330.md",
-      "client": "Росмарк-Сталь"
+      "client": "Росмарк-Сталь",
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/rezon-hdc330.md",
+      "id": "rezon-hdc330",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "rfid-schityvatel-isbc",
@@ -858,7 +1159,14 @@
       "url": "https://m-shtab.ru/rfid-schityvatel-isbc",
       "official_case_url": "https://m-shtab.ru/rfid-schityvatel-isbc",
       "markdown": "cases/rfid-schityvatel-isbc.md",
-      "client": "ISBC"
+      "client": "ISBC",
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/rfid-schityvatel-isbc.md",
+      "id": "rfid-schityvatel-isbc",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "rm800_cmf_id",
@@ -875,7 +1183,14 @@
       "url": "https://m-shtab.ru/rm800_cmf_id",
       "official_case_url": "https://m-shtab.ru/rm800_cmf_id",
       "markdown": "cases/rm800_cmf_id.md",
-      "client": "Русская механика"
+      "client": "Русская механика",
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/rm800_cmf_id.md",
+      "id": "rm800_cmf_id",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "rm_buran_leader",
@@ -892,7 +1207,14 @@
       "url": "https://m-shtab.ru/rm_buran_leader",
       "official_case_url": "https://m-shtab.ru/rm_buran_leader",
       "markdown": "cases/rm_buran_leader.md",
-      "client": "Русская механика"
+      "client": "Русская механика",
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/rm_buran_leader.md",
+      "id": "rm_buran_leader",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "rm_frontier",
@@ -910,7 +1232,14 @@
       "url": "https://m-shtab.ru/rm_frontier",
       "official_case_url": "https://m-shtab.ru/rm_frontier",
       "markdown": "cases/rm_frontier.md",
-      "client": "Русская механика"
+      "client": "Русская механика",
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/rm_frontier.md",
+      "id": "rm_frontier",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "rps",
@@ -929,7 +1258,14 @@
       "url": "https://m-shtab.ru/rps",
       "official_case_url": "https://m-shtab.ru/rps",
       "markdown": "cases/rps.md",
-      "client": "RPS"
+      "client": "RPS",
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/rps.md",
+      "id": "rps",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "semnaya-krisha-gusenichnogo-bolotohoda-t",
@@ -948,7 +1284,14 @@
       "markdown": "cases/semnaya-krisha-gusenichnogo-bolotohoda-t.md",
       "client": null,
       "client_public": false,
-      "year": 2022
+      "year": 2022,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/semnaya-krisha-gusenichnogo-bolotohoda-t.md",
+      "id": "semnaya-krisha-gusenichnogo-bolotohoda-t",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "separator-eksli",
@@ -966,7 +1309,14 @@
       "official_case_url": "https://m-shtab.ru/separator-eksli",
       "markdown": "cases/separator-eksli.md",
       "client": "EKSLi",
-      "year": 2024
+      "year": 2024,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/separator-eksli.md",
+      "id": "separator-eksli",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "skladnoi-gorodskoi-velosiped-10",
@@ -986,7 +1336,14 @@
       "markdown": "cases/skladnoi-gorodskoi-velosiped-10.md",
       "client": null,
       "client_public": false,
-      "year": 2018
+      "year": 2018,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/skladnoi-gorodskoi-velosiped-10.md",
+      "id": "skladnoi-gorodskoi-velosiped-10",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "snegobolotohod-sever",
@@ -1005,7 +1362,14 @@
       "markdown": "cases/snegobolotohod-sever.md",
       "client": null,
       "client_public": false,
-      "year": 2024
+      "year": 2024,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/snegobolotohod-sever.md",
+      "id": "snegobolotohod-sever",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "snegohod-tiksi-500-4t",
@@ -1023,7 +1387,14 @@
       "official_case_url": "https://m-shtab.ru/snegohod-tiksi-500-4t",
       "markdown": "cases/snegohod-tiksi-500-4t.md",
       "client": "Русская механика",
-      "year": 2020
+      "year": 2020,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/snegohod-tiksi-500-4t.md",
+      "id": "snegohod-tiksi-500-4t",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "stanki-enisej-dizajn-dnk",
@@ -1042,7 +1413,14 @@
       "official_case_url": "https://m-shtab.ru/stanki-enisej-dizajn-dnk",
       "markdown": "cases/stanki-enisej-dizajn-dnk.md",
       "client": "Енисей",
-      "year": 2025
+      "year": 2025,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/stanki-enisej-dizajn-dnk.md",
+      "id": "stanki-enisej-dizajn-dnk",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "stanok-termicheskoy-rezki-giperplazma",
@@ -1063,7 +1441,14 @@
       "markdown": "cases/stanok-termicheskoy-rezki-giperplazma.md",
       "client": null,
       "client_public": false,
-      "year": 2025
+      "year": 2025,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/stanok-termicheskoy-rezki-giperplazma.md",
+      "id": "stanok-termicheskoy-rezki-giperplazma",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "svarochniy-apparat",
@@ -1085,7 +1470,14 @@
       "markdown": "cases/svarochniy-apparat.md",
       "client": null,
       "client_public": false,
-      "year": 2025
+      "year": 2025,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/svarochniy-apparat.md",
+      "id": "svarochniy-apparat",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "tactical",
@@ -1104,7 +1496,14 @@
       "official_case_url": "https://m-shtab.ru/tactical",
       "markdown": "cases/tactical.md",
       "client": null,
-      "client_public": false
+      "client_public": false,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/tactical.md",
+      "id": "tactical",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "tdo-dlya-instrumentov-tornado",
@@ -1123,7 +1522,14 @@
       "markdown": "cases/tdo-dlya-instrumentov-tornado.md",
       "client": null,
       "client_public": false,
-      "year": 2022
+      "year": 2022,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/tdo-dlya-instrumentov-tornado.md",
+      "id": "tdo-dlya-instrumentov-tornado",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "tomograph",
@@ -1142,7 +1548,14 @@
       "official_case_url": "https://m-shtab.ru/tomograph",
       "markdown": "cases/tomograph.md",
       "client": null,
-      "client_public": false
+      "client_public": false,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/tomograph.md",
+      "id": "tomograph",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "uv-lampa",
@@ -1162,7 +1575,14 @@
       "markdown": "cases/uv-lampa.md",
       "client": null,
       "client_public": false,
-      "year": 2023
+      "year": 2023,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/uv-lampa.md",
+      "id": "uv-lampa",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     },
     {
       "slug": "vezdehod-varyag",
@@ -1181,7 +1601,14 @@
       "markdown": "cases/vezdehod-varyag.md",
       "client": null,
       "client_public": false,
-      "year": 2023
+      "year": 2023,
+      "repo_case_url": "https://github.com/Lllewellla/masshtabdesign/blob/main/cases/vezdehod-varyag.md",
+      "id": "vezdehod-varyag",
+      "organization": "Бюро промышленного дизайна «Масштаб»",
+      "status": "completed",
+      "updated": "2026-08-28",
+      "claims": [],
+      "limitations": []
     }
   ]
 }

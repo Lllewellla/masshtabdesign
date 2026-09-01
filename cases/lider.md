@@ -1,6 +1,7 @@
 ---
 title: "Дизайн вагон-домов «Лидер»"
 slug: lider
+id: lider
 client: null
 client_public: false
 product: "Вагон-дома «Лидер»"
@@ -10,8 +11,14 @@ mark: ""
 location: "Россия"
 year: 2025
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/lider
 official_case_url: https://m-shtab.ru/lider
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/lider.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "промышленный дизайн"
 team:
@@ -25,6 +32,7 @@ team:
 **Продукт:** Вагон-дома «Лидер»  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/lider
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/lider.md
 
 ## Короткая карточка
 

@@ -1,6 +1,7 @@
 ---
 title: "Дизайн SUP-досок Gladiator"
 slug: gladiator
+id: gladiator
 client: "Gladiator"
 client_public: true
 product: "SUP-доски «Gladiator»"
@@ -9,8 +10,14 @@ category:
 mark: "СЕРИЙНОЕ ПРОИЗВОДСТВО"
 location: "Россия"
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/gladiator
 official_case_url: https://m-shtab.ru/gladiator
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/gladiator.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "Аналитика"
   - "дизайн"
@@ -25,6 +32,7 @@ team: []
 **Стадия / маркер:** СЕРИЙНОЕ ПРОИЗВОДСТВО  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/gladiator
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/gladiator.md
 
 ## Короткая карточка
 

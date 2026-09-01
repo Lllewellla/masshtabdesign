@@ -1,6 +1,7 @@
 ---
 title: "Дизайн: Погрузчик «Гринтех П300»"
 slug: pogruzchik-grinteh-p300
+id: pogruzchik-grinteh-p300
 client: null
 client_public: false
 product: "Погрузчик «Гринтех П300»"
@@ -10,8 +11,14 @@ mark: ""
 location: "Россия"
 year: 2025
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/pogruzchik-grinteh-p300
 official_case_url: https://m-shtab.ru/pogruzchik-grinteh-p300
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/pogruzchik-grinteh-p300.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "эскизный дизайн-проект"
   - "концепт-дизайн"
@@ -27,6 +34,7 @@ team:
 **Продукт:** Погрузчик «Гринтех П300»  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/pogruzchik-grinteh-p300
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/pogruzchik-grinteh-p300.md
 
 ## Короткая карточка
 

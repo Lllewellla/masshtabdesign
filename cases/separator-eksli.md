@@ -1,6 +1,7 @@
 ---
 title: "Дизайн сепаратора ТКО «Прогресс-1» для EKSLi"
 slug: separator-eksli
+id: separator-eksli
 client: "EKSLi"
 client_public: true
 product: "Сепаратор ТКО «Прогресс-1» для EKSLi"
@@ -10,8 +11,14 @@ mark: "МАЛАЯ СЕРИЯ"
 location: "Россия"
 year: 2024
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/separator-eksli
 official_case_url: https://m-shtab.ru/separator-eksli
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/separator-eksli.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "промышленный дизайн"
 team:
@@ -28,6 +35,7 @@ team:
 **Стадия / маркер:** МАЛАЯ СЕРИЯ  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/separator-eksli
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/separator-eksli.md
 
 ## Короткая карточка
 

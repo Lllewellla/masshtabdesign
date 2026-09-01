@@ -1,6 +1,7 @@
 ---
 title: "Дизайн: Модульный электробайк «Adaptto»"
 slug: adapttoebike
+id: adapttoebike
 client: null
 client_public: false
 product: "Модульный электробайк «Adaptto»"
@@ -9,8 +10,14 @@ category:
 mark: ""
 location: "Россия"
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/adapttoebike
 official_case_url: https://m-shtab.ru/adapttoebike
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/adapttoebike.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "эскизный дизайн-проект"
   - "визуализация"
@@ -24,6 +31,7 @@ team: []
 **Продукт:** Модульный электробайк «Adaptto»  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/adapttoebike
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/adapttoebike.md
 
 ## Короткая карточка
 

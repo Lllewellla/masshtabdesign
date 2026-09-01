@@ -1,6 +1,7 @@
 ---
 title: "Дизайн и брендинг вилочных погрузчиков"
 slug: loader
+id: loader
 client: null
 client_public: false
 product: "Вилочные погрузчики"
@@ -9,8 +10,14 @@ category:
 mark: "СЕРИЙНОЕ ПРОИЗВОДСТВО"
 location: "Россия"
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/loader
 official_case_url: https://m-shtab.ru/loader
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/loader.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "эскизный дизайн-проект"
   - "цветографика"
@@ -24,6 +31,7 @@ team: []
 **Стадия / маркер:** СЕРИЙНОЕ ПРОИЗВОДСТВО  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/loader
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/loader.md
 
 ## Короткая карточка
 

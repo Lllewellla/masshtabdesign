@@ -1,6 +1,7 @@
 ---
 title: "Дизайн: Кейс для тактического оборудования"
 slug: tactical
+id: tactical
 client: null
 client_public: false
 product: "Кейс для тактического оборудования"
@@ -9,8 +10,14 @@ category:
 mark: ""
 location: "Россия"
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/tactical
 official_case_url: https://m-shtab.ru/tactical
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/tactical.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "эскизный дизайн-проект"
   - "3D-моделирование"
@@ -23,6 +30,7 @@ team: []
 **Продукт:** Кейс для тактического оборудования  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/tactical
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/tactical.md
 
 ## Короткая карточка
 

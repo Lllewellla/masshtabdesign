@@ -1,6 +1,7 @@
 ---
 title: "Дизайн: Цветографика для лонгбордов «Ruzh»"
 slug: longboard
+id: longboard
 client: null
 client_public: false
 product: "Цветографика для лонгбордов «Ruzh»"
@@ -9,8 +10,14 @@ category:
 mark: "МАЛАЯ СЕРИЯ"
 location: "Россия"
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/longboard
 official_case_url: https://m-shtab.ru/longboard
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/longboard.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "Графический дизайн"
   - "сопровождение мелкосерийного производства"
@@ -24,6 +31,7 @@ team: []
 **Стадия / маркер:** МАЛАЯ СЕРИЯ  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/longboard
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/longboard.md
 
 ## Короткая карточка
 

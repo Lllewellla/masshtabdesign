@@ -1,6 +1,7 @@
 ---
 title: "Дизайн бытовой техники Kitfort для серии"
 slug: kitfort
+id: kitfort
 client: "Kitfort"
 client_public: true
 product: "Бытовые приборы «Kitfort»"
@@ -9,8 +10,14 @@ category:
 mark: "СЕРИЙНОЕ ПРОИЗВОДСТВО"
 location: "Россия"
 author: "Бюро промышленного дизайна «Масштаб»"
+organization: "Бюро промышленного дизайна «Масштаб»"
+status: "completed"
 url: https://m-shtab.ru/kitfort
 official_case_url: https://m-shtab.ru/kitfort
+repo_case_url: https://github.com/Lllewellla/masshtabdesign/blob/main/cases/kitfort.md
+updated: "2026-08-28"
+claims: []
+limitations: []
 services:
   - "Креативная концепция"
   - "цветографическое решение"
@@ -25,6 +32,7 @@ team: []
 **Стадия / маркер:** СЕРИЙНОЕ ПРОИЗВОДСТВО  
 **Бюро:** «Масштаб», Москва  
 **Страница на сайте:** https://m-shtab.ru/kitfort
+**Исходные данные в репозитории:** https://github.com/Lllewellla/masshtabdesign/blob/main/cases/kitfort.md
 
 ## Короткая карточка
 
